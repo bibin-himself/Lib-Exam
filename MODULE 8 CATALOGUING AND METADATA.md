@@ -809,7 +809,7 @@ resource.”
   4. Principle of User Orientation
       Indexing should match user search behavior
 
-  5. Principleof Economy
+  5. Principle of Economy
       Balance between effort & retrieval effectiveness
 
 
@@ -817,5 +817,217 @@ resource.”
 
 
 `// (SIL) of G. Bhattacharyya \\`
+    Developed POPSI based Rangas facet analysis & postulates
 
- 
+  `Types of SIL`
+  > Verbal Subject Indexing Languages
+    Subject headings
+    Thesauri
+    POPSI
+    PRECIS
+
+  > Notational Subject Indexing Languages
+    Classification numbers
+    DDC
+    CC
+    UDC
+
+
+`// Major Lists of Subject Headings \\`
+
+ > Library of Congress Subject Headings (LCSH)
+   Dev by LC,  1898
+   Pre-coordinate system
+   Alphabetical arrangement
+
+   - Structure
+      Main Headings
+      Subdivisions
+       Topical, Geo, Chrono, Form
+
+   - References Used:
+      USE, UF, BT,NT, RT
+
+
+
+ > Sears List of Subject Headings
+   Dev by Minnie Earl Sears, 1923
+
+   Designed for small and medium libraries
+   Simpler than LCSH
+   Alphabetical arrangement
+
+   - Structure
+      Main Headings
+      Subdivisions
+      Cross References
+       USE
+       UF
+       BT, NT, RT
+
+ > Medical Subject Headings (MeSH)
+    By National Library of Medicine (NLM), USA, 1960
+    
+    Medical Subject Headings (MeSH)
+    For biomedical and health-related information.
+
+    Used in:
+     MEDLINE
+     PubMed
+     NLM Catlogues & DB
+
+
+
+
+
+
+
+
+`///// Pre-coordinate Indexing \\\\\`
+  Term coordination done before storage/index preparation
+  Indexer decides the order & relationship of terms
+
+  > Major Systems
+     Chain Indexing 	SR Ranganathan
+     POPSI          	Ganesh Bhattacharyya
+     PRECIS         	Derek Austin
+     Library of Congress Subject Headings (LCSH) (line 837)
+
+  - Compound subject represented as a heading/string.
+
+
+
+`// Chain Indexing \\`
+
+  Deriving subject headings from class numbers assigned during Classifcation
+
+  Creates an alphabetical subject index by tracing the chain of broader classes from a specific subject.
+
+  Dev by SR Ranganathan, 1938
+
+  Specific → Broader → Broadest.
+  Pre-coordinate indexing
+  Uses chain of classes
+
+  Based on `Principle of Context` principle
+  Output: `Alphabetical subject index`
+
+  Eg: Subject: Photosynthesis
+  Eg: Chain: 
+      Photosynthesis
+      Plant Physiology
+      Botany
+      Biology
+      Science
+
+  > Missing Link:
+     A required intermediate term absent from the classification schedule.
+
+
+
+
+`// PRECIS \\`
+  Preserved Context Indexing System
+  Dev by `Derek Austin, 1971`
+  Dev for The Bristish National Bibliography (BNB)
+
+  - Main Principle: Preservation of Context
+
+  Pre-cordinate indexing
+  Machine-genrated entries
+
+  Based on Role operators & syntax
+
+ > Components:
+   1. Subject Statement:
+       Natural language desc of subject
+   2. Role Operators:
+       Synbols indicating the function of each term
+   3. Syntax Rules:
+       Rules governing term arrangement
+   4. Generated Entries:
+       Multiple alphabetical entries     
+
+
+
+`// POPSI \\`
+  Analyse the subs into concepts & generate index entries
+
+  Dev by G Bhattacharya, 1980 at DRTC
+  Based on SRR General Theory of Classification
+
+  Pre-cordinate Indexing system
+  Facet-based approach
+  Uses Role indicators
+  Uses Classaurus (Classified thesaurus)
+
+ > Components:
+   1. Basic Subject: Main Discipline
+   2. Isolate Concepts: Facets/subordinate concepts
+   3. Role Indicators: Symbols indicate role of each concept 
+
+ > Elementary Categories (DEAPM)
+    Discipline
+    Entity
+    Action
+    Property
+    Modifier
+
+
+
+
+
+
+
+
+
+`///// Post-coordinate Indexing \\\\\`
+  Subject terms are assigned seperately & are coordinated by the user
+  `At the time of serach`
+
+  - Uses single terms (Descriptors/uniterms)
+
+  > Major Systems
+      Uniterm Indexing              Mortimer Taube
+      Batten System                 William Ernest Batten
+      Peek-a-boo System	
+      Optical Coincidence System	
+
+
+`// Uniterm Indexing \\`
+  Dev by Mortimer Taube, 1953
+
+  Uses single terms (Uniterms) for indexing
+  Simplest form of post-coordinate indexing
+
+  Higly Flexible
+  Better for interdisciplinary subjects
+  Suitable for computer-based retrieval
+
+
+
+
+`// Automatic Indexing \\`
+  Generating index terms automatically by a computer
+  terms extracted from, titles,  abstracts, full text etc
+
+ > Techniques
+   1. Keyword Indexing:
+       Extracts significant words from doc
+   2. KWIC (Key Word In COntext):
+       Keyword displayed with surrounding context
+   3. KWOC (Key Word Out of COntext):
+       Keyword seperated from its original context
+   4. Statistical Indexing:
+       Uses term frequency & occurrence patterns
+   5. Natural Language Processing (NLP):
+       Uses linguistic analysis to identify concepts
+
+    > NLP Tools
+      NLTK              Teaching & research NLP
+      spaCy             Fast NLP processing
+      Stanford CoreNLP	Advanced language analysis
+      Lucene	          Search & retrieval
+      Elasticsearch	    Digital library search
+      WordNet	          Vocabulary control & semantics
+      Gensim	          Topic modeling

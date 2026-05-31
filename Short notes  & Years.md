@@ -147,21 +147,27 @@ ERIC:    Education Resources Information Center, is the world's largest digital 
 J-Gate (2001):  J-Gate is an electronic gateway to global e-journal literature
 Project MUSE (1993): Online database of more than 200 journals from nonprofit publishers.
 EBSCO: Reference Databases
+
 Pubmed: citations for biomedical articles from MEDLINE
 
-IndMed: A Bibliographic Database of Indian Biomedical Literature is an indexing of medical and other biomedical journals from India not cover in Medline
+IndMed:
+ A Bibliographic Database of Indian Biomedical Literature is an indexing of medical and other biomedical journals from India not cover in Medline
 
 INIS: The INIS Database, contains over 3 million bibliographic records
 
-LISA: Library and Information Science Abstracts is an international abstracting and indexing tool designed for library professionals and other information specialists.
+LISA:
+ Library and Information Science Abstracts is an international abstracting and indexing tool designed for library professionals and other information specialists.
 
-Genamics Journal Seek: Largest completely categorized database of freely available journal information available on the internet. The database presently contains 95320 titles. Journal information includes the description (aims and scope), journal abbreviation, journal homepage link, subject category and ISSN.
+Genamics Journal Seek:
+ Largest completely categorized database of freely available journal information available on the internet. The database presently contains 95320 titles. Journal information includes the description (aims and scope), journal abbreviation, journal homepage link, subject category and ISSN.
 
-Econlit: The American Economic Association’s electronic bibliography, EconLit, indexes more than thirty years of economics literature from around the world. Compiled and
+Econlit:
+ The American Economic Association’s electronic bibliography, EconLit, indexes more than thirty years of economics literature from around the world. Compiled and
 abstracted in an easily searchable format, EconLit is a comprehensive index ofjournal articles, books, book reviews, collective volume articles, working papers and dissertations.
 
-REPEC: Research Papers in economics. Collaborative volunteer effort to enhance the dissemination of research in economics. The database contains information on more than 585,000 items
-OCLC Worldcat A global catalog of library collections.
+REPEC:
+ Research Papers in economics. Collaborative volunteer effort to enhance the dissemination of research in economics. The database contains information on more than 585,000 items
+
 
 OCLC Worldcat: A global catalog of library collections.
 
