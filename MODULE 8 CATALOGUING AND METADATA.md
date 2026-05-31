@@ -1014,9 +1014,9 @@ resource.”
  > Techniques
    1. Keyword Indexing:
        Extracts significant words from doc
-   2. KWIC (Key Word In COntext):
+   2. KWIC (Key Word In Context):
        Keyword displayed with surrounding context
-   3. KWOC (Key Word Out of COntext):
+   3. KWOC (Key Word Out of Context):
        Keyword seperated from its original context
    4. Statistical Indexing:
        Uses term frequency & occurrence patterns
@@ -1031,3 +1031,110 @@ resource.”
       Elasticsearch	    Digital library search
       WordNet	          Vocabulary control & semantics
       Gensim	          Topic modeling
+
+
+
+
+
+
+`/// METADATA \\\`
+   data about data
+
+
+  `Types of Metadata` 
+   1. Descriptive Metadata
+       Describes & identifies a resource.
+       
+       Discovery & Retrieval of resources
+       Cataloguing & indexing
+       
+       `Elements`:
+        Title, Author, Subject, Keywords, Abstract, Publisher
+       
+       Eg: Dublin, MARC 21, MODS
+
+   2. Structural Metadata
+       Shows how different parts of a resource are related.
+
+       `Elements`:
+        Chapters, Pages, Sections, File relationships
+
+       Standards: METS 
+
+   3. Administrative Metadata
+       Supports management of resources
+
+       Resource management
+       Preservation
+       RIghts control
+
+       `Elements`:
+        Creation date, File type, Access rights, Ownership, Preservation information
+
+       `Subtypes of AM`
+         1. Technical MD
+             Technical management, Digital preservation
+             
+            - Contains:
+               File format, Resolution, Software used, Hardware details
+
+         2. Rights MD
+             Intellectual property management
+
+            - Contains:
+               Copyright information, License details, Access restrictions
+
+         3. Preservation MD
+             Long-term access & preservation
+
+            - Contains:
+               Migration history
+               Authenticity information
+               Preservation actions
+
+
+
+
+
+`/// METADATA Standards\\\`
+
+ Dublin Core : General Resource MD
+ MARC 21     : Bibliographic MD
+ MODS        : Bibliographic MD
+ METS        : Structural MD
+ RDF         : Semantic Web MD
+ BIBFRAME    : Bibliographic MD, Semantic Web MD
+   <!-- refer line 545 -->
+ PREMIS      : Preservation MD
+ EAD         : Archival MD
+ ONIX        : Publishing MD
+ VRA Core    : Visual Resource MD
+
+
+
+ `/// EAD \\\`
+   Encoded Archival Description
+
+   `XML-based` metadata standard for Archival collections.
+   Enables archives, libraries, museums, manuscripts to create, exchange archival descs electronically
+
+  - Initiated by University of California,Berkeley, 1992
+  - Led by `Daniel Pitti`
+  - Maintained by:
+     Society of American Archivists (SAA)
+     Library on Congress
+
+   1st release: EAS 1.0 - 1998
+   Latest Major Version: EAD3 (2015)
+   
+   Element set : `146 Elements`
+
+   EAD can be mapped to:
+    MARC 21, Dublin Core, ISAD(G), DACS
+
+  - Used by:
+    Archives, National libraries, Museums, Historical societies, Manuscript repositories
+
+
+
+
