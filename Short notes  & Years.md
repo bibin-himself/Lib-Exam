@@ -192,3 +192,15 @@ OCLC Worldcat: A global catalog of library collections.
   Developed by NISSAT in close collaboration with NISTADS 
    Break language barriers in Indian library cataloguing by adding native multilingual support to CDS/ISIS
  
+
+
+
+, (Comma) Personality The most specific or core characteristic of a subject Persons, organs, entities, specific diseases
+
+; (Semicolon) Matter The physical material or substance composing a subjectWood, steel, chemicals, tissue
+
+: (Colon)Energy Action, process, or operation performed on or by a subjectTreatment, research, management, cooking
+
+. (Dot) Space The geographic or spatial location of a subjectCountries (e.g., India), continents, cities
+
+' (Single Inverted Comma) Time The period or date associated with a subjectYears (e.g., 1950), centuries, decades
