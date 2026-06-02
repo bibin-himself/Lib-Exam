@@ -414,3 +414,545 @@ Complex	          Multiple subject interactions
         /	    Consecutive Extension
         :	    Relation
         [ ]	    Subgrouping
+
+
+
+
+
+`///// NORMATIVE PRINCIPLES \\\\\`
+  Rules that guide work in each plane.
+
+  > Idea Plane
+     Formation and organization of concepts/subjects
+  > Verbal Plane
+  	 Expression of concepts through terms and names
+  > Notational Plane
+     Representation through symbols/notation
+
+
+`Idea Plane`
+│
+├── `Characteristics` (4)
+│   ├─ Differentiation:     Must divide
+│   ├─ Relevance:           Must suit purpose
+│   ├─ Ascertainability:    Must be verifiable
+│   └─ Permanence:          Must remain stable
+│
+├── `Succession of Characteristics` (3)
+│   ├─ Concomitance:            Avoid duplicate arrays
+│   ├─ Relevant Succession      Useful order
+│   └─ Consistent Succession:   Follow order consistently
+│
+├── `Array` (3)
+│   ├─ Exhaustiveness:          Nothing left out
+│   ├─ Exclusiveness:           No overlap
+│   └─ Helpful Sequence:        User-friendly order
+│
+├── `Chain` (2)
+│   ├─ Decreasing Extension:    Extension ↓ Intension ↑
+│   └─ Modulation:              No missing link
+│
+└── `Filiatory Sequence` (2)
+    ├─ Subordinate Classes:     Child follows parent
+    └─ Coordinate Classes:      Siblings together
+  
+
+  
+  `// IDEA PLANE \\`
+   Deals with: Concepts, Subjects, Facets, Relationship
+
+   `Canons` 
+   > Canons for Characteristics
+      A characteristic is a feature or attribute used to divide a universe into classes   
+      Eg: Students
+            ↓
+        Male / Female
+        
+    1. Canon of Charcteristics
+        Chosen characteristic must divide the universe into at least two groups.
+         Eg: Students
+              → Male 
+              → Femal
+
+            ❌ Students → Having face
+    
+    2. Canon of Relevance
+        Chosen characteristic must be relevant to the purpose of classification.
+        Eg: For books in a library:
+            ✅ Subject
+                 Author
+                 Language
+
+            ❌ Colour
+                 Paper quality
+                 Size
+
+    3. Canon of Ascertainability
+        Characteristic should be definite and easily verifiable.
+        Eg: ✅ Date of birth
+            ❌ Future date of death
+    
+    4. Canon of Permanence (Performance)
+        Characteristic should remain stable over time.
+        Eg: ✅ Subject
+            ❌ Publisher name
+
+*   Differentiation	    Must divide
+    Relevance	        Must be useful
+    Ascertainability	Must be verifiable
+    Permanence	        Must be stable
+
+   
+   > Canons for Succession of Characteristics
+      Guide the order in which characteristics are applied.
+    1. Canon of Concomitance
+        2 characteristics should not produce the same subdivisions.   
+        Eg: Old age
+               → Deafness
+               → Weak eyesight
+
+    2. Canon of Relevant Succession
+        Characteristics should be applied in the most useful order.
+        Eg: ✅ Substance → Problem
+            ❌ Problem → 
+            
+    3. Canon of Consistent Succession
+        Once a sequence is chosen, it should be followed consistently.
+        Eg: Area → Period
+
+*   Concomitance	        Avoid duplicate divisions
+    Relevant Succession	    Follow useful order
+    Consistent Succession	Follow same order always
+
+   > Canons for Array
+      Array is a set of coordinate classes produced by applying one characteristic.
+       Eg: Students
+            ├── Undergraduate
+            ├── Postgraduate
+            └── Doctoral
+
+    1. Canon of Exhaustiveness
+        Every entity must find a place in the array.
+        `Complete coverage`
+        Eg: Students
+             ├── Male
+             └── Female
+    
+    2. Canon of Exclusiveness
+        Classes in an array should not overlap
+        An entity should belong to only one class.
+         Eg: Botany - Zoology
+
+         
+
+*   3. `//Canon of Helpful Sequence\\`
+        Classes should be arranged in the most useful order.
+
+        Arrange coordinate classes (sibling topics) in a logical, predictable, and helpful order for library users
+
+        `User convenience`
+        * Principles of Helpful Sequence
+            Later in Time
+            Earlier in Time
+            Later in Evolution
+            Earlier in Evolution
+            Spatial Contiguity
+            Increasing Quantity
+            Decreasing Quantity
+            Increasing Complexity
+            Decreasing Complexity
+            Canonical Sequence
+            Decreasing Literary Warrant
+            Increasing Literary Warrant
+            Alphabetical Sequence
+
+
+
+* Exhaustiveness	No entity left out
+  Exclusiveness	    No overlap
+  Helpful Sequence	Useful order
+
+
+   > Canons for Chain
+      Chain is a hierarchical sequence where `each class is derived from the previous one`. 
+        Eg: World
+            ↓
+            Asia
+            ↓
+            India
+            ↓
+            Kerala
+            ↓
+            Ernakulam
+
+    1. Canon of Decreasing Extension
+        Classification must move from general to specific.
+        - Extension (Quantity/Scope) decreases. The class covers fewer items.
+        - Intension (Quality/Detail) increases. The class becomes more descriptive.
+        Eg: Example:Science  →  Biology  →  Zoology  →  Mammals.
+
+* Decreasing Extension	Extension ↓ Intension ↑
+  Modulation	        No missing link
+
+
+   > Canons for Filiatory Sequence
+      Place closely related subjects immediately next to each other.
+      Deals with parent-child relationships.
+
+    1. Canon of Subordinate Classes  
+        Subclasses must immediately follow their parent class
+        Child follows parent
+        Eg: A
+            A1
+            A2
+            A3
+    
+    2. Canon of Coordinate Classes  
+        Coordinate classes should remain together.
+        Siblings stay together
+        Eg: A
+            A1
+            A2
+            B
+            B1
+
+
+
+
+  `// VERBAL PLANE \\`
+
+    C → Context     → Up          - Broader class
+    E → Enumeration → Down        - Subordinate class
+    C → Currency    → Current     - Modern terminology
+    R → Reticence   → Respectful  - Neutral terminology
+
+    1. Canon of Context
+        `Meaning of a classification term` is determined by its `broader parent classes` in the same chain.
+        > Upper link determines meaning
+        Eg: Agriculture
+                ↓
+               Rice
+                ↓
+              India
+            Meaning: India in Rice Cultivation
+
+    2. Canon of Enumeration
+        `Meaning of a term` should be determined by its `lower links` (subordinate classes).
+        > Lower link determines meaning
+        Eg: Arithmetic
+            ├── Lower Mathematics
+            └── Higher Mathematics
+
+    3. Canon of Currency
+        Term used should be the one currently accepted by users.
+        > Current usage
+        Eg: Moving Pictures → Films/Cinema
+            Data Processing → Information Technology
+
+    4. Canon of Reticence
+        Terminology used should be neutral and non-critical.
+        > Avoid judgmental or offensive terms.
+        Eg: ✅ Persons with Disabilities
+            ❌ Handicapped Persons
+
+
+
+
+
+
+
+`//// Facet Analysis as used in the CC \\\\`
+  Analysis of a subject into its component facets and their synthesis into a class number.
+
+  `Steps`
+    Analyze Subject
+           ↓
+    Identify Facets
+           ↓
+    Arrange Facets
+           ↓
+    Synthesize Class Number
+
+   > Subject Analysis
+      Identify concepts in the title.
+      Eg: Library Automation in University Libraries in India
+          Library, Automation, University Libraries, India
+
+   > Facet Identification
+      Assign each concept to a category.
+      Eg: University Libraries	P
+          Automation	        E
+          India	                S
+
+   > Citation Order
+      Arrange facets according to PMEST.
+
+   > Synthesis
+      Combine notations using facet indicators.
+      Eg: Basic Subject + P + M + E + S + T
+
+
+
+
+
+`// Principles for Facet Sequence \\`
+  Identifying facets through Facet Analysis,
+  Then they must be arranged in a logical order.
+  - Belongs to Idea Plane
+
+  > Wall-Picture Principle
+     Arrange facets from concrete to abstract.
+     If B Cant exist without A, put A first
+       `Supporting entity → Dependent entity`
+       `A → B`
+     Eg: Disease → Treatment, Library → Automation
+
+  > Whole-Organ Principle
+     A part cannot exist independently of the whole.
+     If B is part of A, put A first
+     `Whole first, Part later`
+     `A → B`
+     Eg: Body → Heart, Car → Engine
+
+  > Cow–Calf Principle
+     2 facets are inseparably related and should remain together.
+     `Keep inseparable facets together`
+     `A + B`
+     Eg: Author → Works, Teacher → Students
+
+  > Actand-Action-Actor-Tool Principle
+     Determines sequence among elements involved in an action.
+     Eg: Book → Cataloguing → Librarian → Computer
+         Sheep → Shearing → Shearer → Machine
+
+
+
+
+`/// Postulation Procedure \\\`
+
+  Scientific method of `constructing classification theory`
+  By `making fundamental assumptions` & `deriving practical principles` from them.
+
+  * Postulate → Principle → Canon → Rule 
+  
+  > Postulates
+     Fundamental Assumptions
+      Postulate of fundamental Categories (PMEST).
+      Postulate of Facets
+      Postulate of Arrays
+      Postulate of Chains
+
+  > Principles
+     Derived from postulates.
+      Wall–Picture Principle
+      Whole–Organ Principle
+      Cow–Calf Principle
+      Actand–Action–Actor–Tool Principle
+
+  > Canons
+     Standards used to test correctness.
+      Canons in Idea Plane, Verbal Plane, Notational Plane
+
+  > Rules
+     Operational Instructions
+      Rule for Facet Sequence:
+           Order of facets
+           eg: Rice → Cultivation → Kerala (PMEST)
+      Rule for Citation Order:
+          Order of writing facets in notation.
+          eg: Agriculture, Rice : Cultivation . Kerala
+      Rule for Array Formation:
+          Order of coordinate classes
+          eg: Biology → Botany, Zoology
+
+
+
+  
+
+`/// Devices to form and sharpen isolate numbers \\\`
+  To create new sub-classes (isolates) 
+  Make existing ones more specific.
+
+  1. Chronological Device
+      Uses specific time, year, date to form an isolate number
+      `Subject + Time`
+      Eg: Gandhian Philosophy → Uses Gandhi's birth year (1869)
+
+  2. Geographical Device
+      Uses a country, state, region, locality to form an isolate number.
+      `Subject + Place`
+      Eg: Law + India = Indian Law
+
+  3. Subject Device
+      Uses the notation of an existing subject to sharpen another subject.
+       `Subject A + Subject B notation`
+      Eg: Library Science + Medicine = Medical Library
+
+  4. Alphabetical Device
+      Uses the first letter(s) of a name to create an isolate
+       `Name → Initial Letter(s)`
+      Eg: F = Ford T = Toyota
+
+  5. Mnemonic Device
+      Uses `memorable notation` for recurring concepts.
+      Uses the same symbol or number repeatedly for the same concept across classes.
+      Eg: 3 = Physiology 3 = Structure 3 = Syntax
+
+  6. Superimposition Device
+      Combines one isolate with another isolate of the same facet to increase specificity
+       `Isolate A - Isolate B`
+      Eg: Rural + Women = Rural Women
+
+
+
+
+
+
+`/// Zone analysis \\\`
+
+
+Zone 1
+    Common Isolates
+    Lowercase letters (a-z)
+    Eg:a = Bibliography, m = Periodical
+
+Zone 2
+    Enumerated Isolates
+	Indo-Arabic numerals (1-9)
+    Eg: Standard divisions of a subject
+
+Zone 3
+    Device-Derived Isolates
+    Capital letters (A-Z)
+    CD, GD, AD
+    Eg: N = particular century, Geographical symbols
+
+Zone 4
+	Extra-subject or Complex Isolates
+    ( ) [ ]
+    Packaged/Bracketed notation
+    Eg: Medical Library
+
+
+
+
+
+
+`/// Classification in online systems and Web \\\`
+  Organization of web resources and digital information
+  For browsing, searching, navigation, retrieval
+
+  > Types
+   1. Hierarchial Taxonomies
+       Information is arranged in a `tree-like hierarchy`
+       From broad subjects to narrower subjects.
+       - Top-down classification.
+
+       `Broad Subject → Specific Subject → Narrow Topic`
+        Science
+            └─ Biology
+                └─ Zoology
+       Eg: Yahoo directory, Subject gateways, Web portals
+
+   2. Faceted Classification
+       Classified using multiple `independent facets`
+       Allowing users to filter resources from different perspectives.
+       - Multiple access points for the same resource.
+
+       `Item = Facet 1 + Facet 2 + Facet 3 + ...`
+        Example:
+        Product search
+        Laptop
+        + Brand = Dell
+        + RAM = 16 GB
+        + Price = ₹50,000–₹70,000
+        Eg: E-commerce websites, Digi libs, Discovery systems
+
+   3. Folksonomies
+       User-generated classification system
+       Users assign free-form tags to resources.
+       - Bottom-up classification created by users.
+
+       `Resource + User Tags = Classification`
+       Eg: Hashtags on Instagram, Social bookmarking sites
+           #LibraryScience, #Metadata, #Research
+
+   4. Automated Web Classification
+       Computer algorithms automatically assign web pages to predefined categories.
+
+       * Web Page
+            ↓
+        Algorithm
+            ↓
+        Category
+
+        > Techniques:
+           Machine Learning
+           NLP
+           Text Mining
+           Link Analysis
+
+        Eg: 
+        A webpage about football is automatically classified under: Sports
+
+
+`// Taxonomy \\`
+   Hierarchical, top-down structure used to classify, group, and name things based on shared characteristics
+
+   `Taxonomy	            Folksonomy`
+   Expert-created	        User-created
+   Controlled vocabulary	Free tagging
+   Hierarchical	            Non-hierarchical
+   Structured	            Flexible
+   Consistent	            May be inconsistent
+
+
+
+
+`/// Ontology \\\`
+  A formal, explicit specification of a shared conceptualization of a domain.
+  Structural backbone for any classification system
+
+
+  `Ontology = Taxonomy + Relationships + Meaning (Semantics)`
+
+  - Tree-like structure
+  - Controlled Vocabulary
+  - Rich semantic relationships + logical rules
+
+  > Semantic Triple Model
+     Foundation of ontologies is the `Triple Structure`.
+     `Subject – Predicate – Object`
+      George Orwell - wrote - Animal Farm
+      (This structure is used in RDF)
+         
+  > Semantic Web Technologies
+     1. RDF
+         Represents data as triples.
+         `Subject – Predicate – Object`
+     2. OWL
+         Used to create complex ontologies.
+         Define classes
+         Define properties
+         Set restrictions
+         Define logical rules
+     3. SPARQL
+         Query language for ontology databases.
+         `SQL for relational databases`
+
+  > Applications of Ontology
+     1. Digital Library
+     2. Knowledge Graphs: (Google Knowledge Graph)
+     3. Biomedical Repositories: Gene Ontology
+     4. Artificial Intelligence
+
+  
+
+
+
+
+
+
+
+
+
