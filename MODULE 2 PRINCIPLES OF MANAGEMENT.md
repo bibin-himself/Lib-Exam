@@ -256,13 +256,13 @@
 `/// POSDCORB \\\`
   Luther Gulick and Lyndall Urwick
 
-  P	    Planning	    Deciding what is to be done
-  O     Organizing	    Arranging resources and activities
-  S     Staffing	    Recruiting and developing personnel
-  D     Directing	    Guiding and supervising employees
-  CO    Coordinating	Harmonizing activities and efforts
-  R     Reporting	    Communicating info and performance
-  B     Budgeting	    Financial planning and control
+  P	  Planning	      Deciding what is to be done
+  O     Organizing	   Arranging resources and activities
+  S     Staffing	      Recruiting and developing personnel
+  D     Directing	      Guiding and supervising employees
+  CO    Coordinating 	Harmonizing activities and efforts
+  R     Reporting	      Communicating info and performance
+  B     Budgeting	      Financial planning and control
 
 
 
