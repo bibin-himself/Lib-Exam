@@ -222,6 +222,29 @@ Dervin Model	Brenda Dervin	   Gap-bridging approach
 ASK Model	   Nicholas Belkin	Anomalous State of Knowledge
 
 
+>>>>> Information Society <<<<<  -----> Module 6 line 496
+Knowledge Industry Concept:     Fritz Machlup.
+Knowledge Worker Concept:       Peter Drucker.
+Post-Industrial Society:        Daniel Bell.
+Information Society Theory:     Yoneji Masuda.
+Network Society:                Manuel Castells.
+
+
+
+| Topic                   | Important Point                                             |
+| ----------------------- | ----------------------------------------------------------- |
+| Father of Documentation | Paul Otlet                                                  |
+| Information Theory      | Claude Shannon (1948)                                       |
+| Memex Concept           | Vannevar Bush (1945)                                        |
+| Classic Definition      | Borko (1968)                                                |
+| ADI renamed ASIS        | 1968                                                        |
+| Nature                  | Interdisciplinary                                           |
+| Core Activities         | Collection, Organization, Storage, Retrieval, Dissemination |
+
+
+
+
+
 > Information Literacy
    Coined by Paul G. Zurkowski in 1974.
 
@@ -356,5 +379,182 @@ Major Users	         MSMEs, Entrepreneurs, Researchers
   Hq: Dublin, Ohio, USA.
 
   Operates WorldCat, the world's largest union catalogue, and provides shared cataloging, metadata management, interlibrary loan, resource sharing, discovery services, WorldShare, Connexion, and EZproxy
-  
+
   One of the most important organizations in modern library networking.
+
+
+
+
+>>>>> Communication Models <<<<<   -----> Module 4 line 2
+
+    | Model           | Year    | Type               | Feedback        | Major Contribution              |
+    | --------------- | ------- | ------------------ | --------------- | ------------------------------- |
+    | Aristotle       | Ancient | Linear             | No              | Public speaking                 |
+    | Lasswell        | 1948    | Linear             | No              | Communication effect            |
+    | Shannon-Weaver  | 1949    | Mathematical       | No (originally) | Noise concept                   |
+    | Berlo SMCR      | 1960    | Linear             | No              | Source-Message-Channel-Receiver |
+    | Schramm         | 1954    | Interactive        | Yes             | Feedback                        |
+    | Osgood-Schramm  | 1954    | Circular           | Yes             | Continuous interaction          |
+    | Newcomb ABX     | 1953    | Social             | Partial         | Relationship balance            |
+    | Dance Helical   | 1967    | Dynamic            | Implied         | Growth of communication         |
+    | Westley-MacLean | 1957    | Mass Communication | Yes             | Gatekeeping                     |
+
+
+> Linear → ALSB
+    (Aristotle, Lasswell, Shannon-Weaver, Berlo)
+
+> Interactive → SOWN
+    (Schramm, Osgood-Schramm, Westley-MacLean, Newcomb)
+
+> Transactional → DO
+    (Dance, Osgood-Schramm)
+
+
+
+
+
+>>>>> Communication Barriers <<<<<   -----> Module 4 line 2
+
+| Barrier        | Cause                                    |
+| -------------- | ----------------------                   |
+| Physical       | Noise, distance                          |
+| Semantic       | Language, jargon                         |
+| Psychological  | Fear, stress                             |
+| Organizational | Hierarchy, bureaucracy                   |
+| Personal       | Poor listening                           |
+| Cultural       | Values, customs                          |
+| Mechanical     | Technology failure                       |
+| Information    | Overload, distortion                     |
+| Political      | Policies, Laws                           |
+| Time Lag       | Publication, distribution delay          |
+
+
+
+
+| Barrier       | Remedy                                    |
+| ------------- | ----------------------------------------- |
+| Language      | Translation services, machine translation |
+| Financial     | Resource sharing, consortia               |
+| Technical     | ICT infrastructure and training           |
+| Institutional | Better library organization               |
+| Political     | International cooperation                 |
+| Time Lag      | Electronic publishing                     |
+| Manpower      | Professional training                     |
+| Cooperation   | Library networks and consortia            |
+| Physical      | Communication Infrastructure              |
+
+
+
+
+| Barrier                    | Simple Example                         |
+| -------------------------- | -------------------------------------- |
+| Institutional              | No OPAC or union catalogue             |
+| Financial                  | Cannot afford database subscriptions   |
+| Technical                  | Internet/server failure                |
+| Linguistic                 | Research article in unknown language   |
+| Social & Psychological     | User afraid to ask librarian           |
+| Political & Administrative | Government restrictions on information |
+| Time Lag                   | Research published years later         |
+| Procedural Complexities    | Delayed acquisition approvals          |
+| Lack of Technical Manpower | Staff unable to use databases          |
+| Lack of Cooperation        | No inter-library loan participation    |
+
+
+
+
+>>>>> Scientific Communication - Trends <<<<< -----> Module 4 line 224
+
+| Trend                    | Key Fact                         |
+| ------------------------ | -------------------------------- |
+| E-Publishing             | Replaced many print publications |
+| Open Access              | BOAI (2002)                      |
+| Institutional Repository | DSpace most widely used          |
+| Digital Library          | NDLI developed by IIT Kharagpur  |
+| Online Database          | AGRIS (FAO), INIS (IAEA)         |
+| Open Science             | Transparency and reproducibility |
+| Research Data            | FAIR principles                  |
+| Preprints                | arXiv launched in 1991           |
+| DOI                      | Managed mainly through Crossref  |
+| Scholarly Networking     | ResearchGate, Academia.edu       |
+| Collaboration            | Multi-institutional research     |
+| Bibliometrics            | Citation analysis                |
+| Scientometrics           | Measurement of science           |
+| Altmetrics               | Social media impact              |
+| AI                       | Automated indexing and retrieval |
+| Multimedia               | Videos, podcasts, webinars       |
+
+
+
+
+
+>>>>> Open Access (OA) Movement <<<<< -----> Module 4 line 377
+
+
+| Topic                             | Key Points                                                                                    |
+| --------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Open Access (OA)**              | Free online access to scholarly literature;                                                   |
+|                                   | Removes financial, legal, and technical barriers.                                             |
+| **arXiv (1991)**                  | First major preprint repository; developed by Paul Ginsparg.                                  |
+| **Budapest OA Initiative (2002)** | Organized by Open Society Institute; formal start of OA movement.                             |
+| **Bethesda Statement (2003)**     | Defined OA publishing principles.                                                             |
+| **Berlin Declaration (2003)**     | Initiated by Max Planck Society; global support for OA.                                       |
+| **Plan S (2018)**                 | Publicly funded research must be Open Access.                                                 |
+| **Gold OA**                       | Published in OA journals; may require APC. Example: Public Library of Science (2001).         |
+| **Green OA**                      | Self-archiving in repositories. Example: arXiv, DSpace, EPrints.                              |
+| **Diamond OA**                    | No fee for authors or readers; university/institution funded.                                 |
+| **Hybrid OA**                     | Subscription journal + OA option through APC.                                                 |
+| **DOAJ (2003)**                   | Directory of OA journals; launched by Lund University Libraries; managed by IS4OA.            |
+| **DSpace**                        | Repository software; MIT & Hewlett-Packard.                                                   |
+| **EPrints**                       | Repository software; University of Southampton.                                               |
+| **Greenstone**                    | Digital library software; University of Waikato + UNESCO.                                     |
+| **Shodhgangotri**                 | INFLIBNET; research-in-progress repository.                                                   |
+| **Shodhganga**                    | INFLIBNET; theses & dissertations repository.                                                 |
+| **NDLI**                          | Developed by Indian Institute of Technology Kharagpur; national digital library.              |
+| **CSIR OA Policy**                | Promotes open access to CSIR research outputs.                                                |
+
+
+
+
+>>>>> Directory of Open Access Journals <<<<< -----> Module 4 line 454
+
+| Aspect                        | Details                                  |
+| ----------------------------- | ---------------------------------------- |
+| Full Name                     | Directory of Open Access Journals (DOAJ) |
+| Established                   | 2003                                     |
+| Launched By                   | Lund University Libraries                |
+| Current Managing Organization | Infrastructure Services for Open Access  |
+| Headquarters                  | United Kingdom (IS4OA)                   |
+| Type                          | Open Access Journal Directory            |
+| Coverage                      | Multidisciplinary                        |
+| Access                        | Free                                     |
+
+
+
+
+
+>>>>> RTI Act, 2005 <<<<< -----> Module 4 line 554
+
+Enforcement:
+12 October 2005
+
+Nodal Ministry:
+Department of Personnel and Training
+
+Key Sections:
+Section 2(f):          Information
+Section 2(h):          Public Authority
+Section 6:             RTI Application
+Section 8:             Exemptions
+Section 19:            Appeals
+Section 20:            Penalties
+
+Time Limits:
+30 days (normal)
+48 hours (life and liberty cases)
+
+Penalty:
+₹250 per day (maximum ₹25,000)
+
+Information Bodies:
+Central Information Commission
+State Information Commissions
