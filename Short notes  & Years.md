@@ -558,3 +558,134 @@ Penalty:
 Information Bodies:
 Central Information Commission
 State Information Commissions
+
+
+
+
+
+
+>>>>> Essential Files in Acquisition Module <<<<< -----> Module 9 line 3
+Vendor File
+Bibliographic File
+Recommendation File
+Order File
+Accession File
+Fund/Budget File
+Invoice File
+Claim File
+Gift & Exchange File
+Standing Order File
+
+
+>>>>> Essential Files in Cataloguing Module <<<<< -----> Module 9 line 67
+  1. Bibliographic File (Master File)
+      Accession Number, Author, Title, ISSN/ISBN, Subheadings Call number, Publisher etc
+  2. Authority File
+      Maintains standardized forms of names and subjects.
+      Author/Corporate Authors, Conference Names etc
+  3. Holdings/Item File
+  4. Classification File
+  5. Subject Heading File
+  6. MARC File
+  7. Keyword File
+  8. Added Entry File
+  9. Union Catalogue File
+  10. OPAC/Search File
+
+
+
+>>>>> Library Automation Packages <<<<< -----> Module 9 line 67
+
+Open Source
+Koha:
+NewGenLib
+Evergreen
+CDS/ISIS (freeware)
+
+Indian Packages
+SOUL (INFLIBNET)
+e-Granthalaya (NIC)
+LibSys
+
+
+| Package / System                             | Developer / Organization                        | Country       | Year          | Type                         | Important Features                                                                          |
+| -------------------------------------------- | ----------------------------------------------- | ------------- | ------------- | ---------------------------- | ------------------------------------------------------------------------------------------- |
+
+ **OPAC** (Online Public Access Catalogue)    | Developed as part of Library Automation Systems | —             | 1970s onwards | Online Catalogue             | Author, title, subject, keyword search; availability status; remote access through Web OPAC |
+
+ **Koha**                                     | Katipo Communications                           | New Zealand   | 2000          | Open Source ILS              | Web-based, MARC 21, Z39.50, RFID, multilingual; most popular open-source LMS                |
+
+ **SOUL** (Software for University Libraries) | INFLIBNET Centre                                | India         | 1999          | Library Automation Software  | Designed for academic libraries; MARC 21, Unicode, Web OPAC                                 |
+
+ **NewGenLib**                                | Verus Solutions                                 | India         | 2005          | Open Source LMS              | Web-based, RFID support, digital library integration                                        |
+
+ **Evergreen**                                | Georgia Public Library Service                  | USA           | 2006          | Open Source ILS              | Highly scalable; suitable for library consortia                                             |
+
+ **LibSys**                                   | LibSys Corporation                              | India         | 1988          | Commercial LMS               | Multi-user, integrated modules, Web OPAC                                                    |
+
+ **Alice for Windows**                        | Softlink International                          | Australia     | 1987          | Commercial LMS               | Popular in school and special libraries                                                     |
+
+ **Virtua**                                   | VTLS Inc.                                       | USA           | 1998          | Integrated Library System    | Unicode support, multilingual, MARC 21 compliant                                            |
+
+ **SLIM++**                                   | SLIM Information Systems                        | USA           | —             | Library Management Software  | Used in special libraries and information centres                                           |
+
+ **CDS/ISIS**                                 | UNESCO                                          | International | 1985          | Database Management Software | Bibliographic database creation; basis for WINISIS, WEBLIS, ABCD                            |
+
+ **e-Granthalaya**                            | National Informatics Centre                     | India         | 2003          | Integrated LMS               | Cloud-enabled; widely used in government and public libraries                               |
+
+
+
+
+>>>>> Media <<<<< -----> Module 9 line 199
+
+>Guided Media
+Twisted Pair
+Coaxial Cable
+Optical Fiber
+
+>Unguided Media
+Radio Waves
+Microwaves
+Satellite
+
+
+>>>>> Modes <<<<<
+Simplex → One-way communication
+Half Duplex → Two-way, one at a time
+Full Duplex → Two-way simultaneous communication
+
+
+>>>>> Components <<<<<
+Information Source
+Transmitter
+Transmission Medium
+Receiver
+Destination
+Protocol (modern systems)
+
+
+
+
+
+
+| Feature                 | **FTP**                                         | **SMTP**                                       | **POP3**                                      | **IMAP**                                 |
+| ----------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| **Full Form**           | File Transfer Protocol                          | Simple Mail Transfer Protocol                  | Post Office Protocol Version 3                | Internet Message Access Protocol         |
+| **Purpose**             | File transfer between computers                 | Sending e-mails                                | Receiving/downloading e-mails                 | Accessing and managing e-mails on server |
+| **Function**            | Upload and download files                       | Send and forward mail                          | Download mail from server to local device     | Access and synchronize mail on server    |
+| **Protocol Layer**      | Application Layer                               | Application Layer                              | Application Layer                             | Application Layer                        |
+| **Default Port**        | 21                                              | 25                                             | 110                                           | 143                                      |
+| **Secure Port**         | FTPS (990), SFTP (22)                           | 465 / 587                                      | 995                                           | 993                                      |
+| **Data Storage**        | Files stored on client/server                   | No storage function                            | Usually stored on local device after download | Stored on mail server                    |
+| **Multi-device Access** | Not applicable                                  | Not applicable                                 | Poor                                          | Excellent                                |
+| **Synchronization**     | No                                              | No                                             | No                                            | Yes                                      |
+| **Offline Access**      | Yes (downloaded files)                          | Not applicable                                 | Yes                                           | Limited                                  |
+| **Major Use**           | File sharing and transfer                       | Sending e-mails                                | Receiving e-mails on one device               | Accessing e-mails from multiple devices  |
+| **Examples**            | Website file upload, repository backup          | Gmail sending mail                             | Outlook downloading mail                      | Gmail synchronization across devices     |
+| **LIS Applications**    | Digital library uploads, repository maintenance | CAS alerts, SDI notifications, overdue notices | Receiving user queries and requests           | Managing library email across devices    |
+
+
+
+
+
+
