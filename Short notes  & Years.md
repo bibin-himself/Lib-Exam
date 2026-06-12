@@ -515,6 +515,26 @@ Major Users	         MSMEs, Entrepreneurs, Researchers
 
 
 
+>>>>>> Gold OA <<<<<<
+Published in open access journals.
+PLOS ONE
+BioMed Central journals
+
+
+>>>>> Green OA <<<<<<<
+Self-archiving in repositories.
+arXiv
+Institutional repositories
+
+>>>>> Diamond OA <<<<<<
+Free for both authors and readers.
+University journals
+Society journals
+
+
+
+
+
 >>>>> Directory of Open Access Journals <<<<< -----> Module 4 line 454
 
 | Aspect                        | Details                                  |
@@ -689,3 +709,166 @@ Protocol (modern systems)
 
 
 
+`/// Sources of Information \\\`
+
+`// Primary Sources \\`
+   Original information
+   1st Publication
+   Most Current
+   > Eg:
+      Research Article, Case studies, Experimental reports
+      Patent, Thesis, Dissertation, Project reports, Conference papers, Technical reports, Lab reports, Standards.Specifications, Census reports, White papers, Sppeches, Interviews, Raw datsets, court judgements etc
+
+`// Secondary Sources \\`
+  Derived from primary sources
+  Organized & Structured
+  Facilitates literature search
+  Save user's time
+  > Eg:
+  1. Indexing Sources: Index Medicus, SCI, SSCI, Indian Science Abstracts
+  2. Abstracting Sources: MEDLARS, AGRIS, INIS, Chemical Abstracts, INSPEC, LISA
+  3. Review of Progress
+  4. Citation Databases: Scopus, Web of Science
+  5. Current Contents
+  6. Treaties
+  7. Monographs
+  8. Textbooks
+
+
+`// Tertiary Sources \\`
+  Summarized information
+  Ready reference
+  Easy consultation
+  General overview
+  > Eg:
+     Encyclopaedias, Dictionaries, Bibliographies, Guides, Directories, Almanacs, Gazetteers, Handbooks, Library Catalogues, Yearbooks
+     
+
+
+
+>>>>> E-Journals <<<<<
+General Science
+ Nature → Springer Nature → 1869
+ Science → AAAS → 1880
+
+Open Access
+ PLOS ONE → PLOS → 2006
+ Founders: Harold Varmus, Patrick Brown, Michael Eisen
+
+Medicine
+ The Lancet → Elsevier → 1823
+ NEJM → Massachusetts Medical Society → 1812
+ BMJ → BMJ Group
+
+LIS
+ Journal of Documentation → Emerald → 1945
+ College & Research Libraries → ACRL
+ Library Hi Tech → Emerald
+ Scientometrics → Tibor Braun
+
+Platforms
+ ScienceDirect → Elsevier
+ SpringerLink → Springer Nature
+ JSTOR → ITHAKA
+ Wiley Online Library → Wiley
+
+
+
+
+>>>>> Preprints <<<<<
+A preprint is a scholarly manuscript made publicly available before peer review,
+Enabling rapid dissemination of research findings;
+Major preprint repositories include arXiv (Paul Ginsparg, 1991), bioRxiv, medRxiv, SSRN, and ChemRxiv.
+
+
+
+
+LISA    → ProQuest → LIS
+AGRIS   → FAO → Agriculture
+Chemical Abstracts/SciFinder → CAS (ACS) → Chemistry
+MEDLINE/PubMed → NLM → Medicine
+INSPEC → IET → Physics
+Ei Compendex → Elsevier → Engineering
+IEEE Xplore → IEEE → Engineering & Computer Science
+ERIC → U.S. Department of Education → Education
+PsycINFO → APA → Psychology
+EconLit → AEA → Economics
+INIS → IAEA → Nuclear Science
+Scopus → Elsevier → Multidisciplinary
+Web of Science → Clarivate → Multidisciplinary
+Shodhganga → INFLIBNET → ETDs
+
+Who's Who   → A & C Black / Bloomsbury Publishing
+
+
+
+>>>>>> Directories <<<<<<<
+Ulrich's Periodicals Directory → Carolyn F. Ulrich
+DOAJ → IS4OA (2003)
+World of Learning
+
+>>>>>> Biographical Sources <<<<<<<
+Who's Who
+Dictionary of National Biography
+Who's Who in America
+
+>>>>>> Geographical Sources <<<<<<<
+Gazetteer of India
+Columbia Gazetteer of the World
+National Atlas of India → NATMO
+The Times Atlas of the World
+
+>>>>>> Statistical Sources (India) <<<<<<<<
+India Year Book → Publications Division
+Census of India → Registrar General & Census Commissioner
+Economic Survey → Ministry of Finance
+NSS → NSO
+UN Statistical Yearbook → UN
+World Development Indicators → World Bank
+FAOSTAT → FAO
+UIS → UNESCO
+WHO Global Health Observatory → WHO
+
+>>>>>>> Handbooks <<<<<<<<
+CRC Handbook of Chemistry and Physics → CRC Press
+Marks' Handbook → Mechanical Engineering
+Merck Manual → Medicine
+ALA Handbook → Library Science
+
+
+>>>>>>>> Bibliographic Databases <<<<<<<<
+Contain citations and abstracts.
+Scopus
+Web of Science
+PubMed
+
+
+>>>>>>> Full-Text Databases <<<<<<<
+Provide complete documents.
+ScienceDirect
+JSTOR
+IEEE Xplore
+
+
+>>>>>> Subject Databases <<<<<<<
+Focused on specific disciplines.
+INSPEC (Physics, Engineering)
+ERIC (Education)
+MEDLINE (Medicine)
+
+
+>>>>>> Academic Portals <<<<<<
+SWAYAM
+NPTEL
+
+>>>>>>> Institutional Portals <<<<<<<
+University websites
+Library portals
+
+>>>>>> Government Portals <<<<<<<
+India.gov.in
+Digital India Portal
+
+>>>>> Subject Portals <<<<<<
+PubMed Portal
+ERIC Portal
