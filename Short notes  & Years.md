@@ -906,3 +906,18 @@ ERIC Portal
 | PDF Annotation      | Yes                                 | Yes            | Yes        | Limited      |
 | MS Word Integration | Yes                                 | Yes            | Yes        | Yes          |
 | Collaboration       | Good                                | Excellent      | Good       | Good         |
+
+
+
+
+
+>>>>> Charging Systems <<<<< -----> Module 7 line 3
+
+
+| System         | Nature         | Main Record                 |
+| -------------- | -------------- | --------------------------- |
+| Browne         | Manual         | Borrower Ticket + Book Card |
+| Newark         | Manual         | Borrower Card + Book Card   |
+| Ledger         | Manual         | Ledger Register             |
+| Photo Charging | Semi-automatic | Photographic Record         |
+| Automated      | Computerized   | Database Record             |
