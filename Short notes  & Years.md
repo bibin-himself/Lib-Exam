@@ -872,3 +872,37 @@ Digital India Portal
 >>>>> Subject Portals <<<<<<
 PubMed Portal
 ERIC Portal
+
+
+
+
+>>>>> Writing Styles <<<<< -----> Module 10 line 107
+
+
+
+| Feature           | Chicago                          | APA                                | MLA                         |
+| ----------------- | -------------------------------- | ---------------------------------- | --------------------------- |
+| Developer         | University of Chicago Press      | American Psychological Association | Modern Language Association |
+| First Published   | 1906                             | 1929                               | 1951                        |
+| Main Fields       | History, Humanities              | Social Sciences                    | Literature, Languages       |
+| Citation Style    | Notes-Bibliography / Author-Date | Author-Date                        | Author-Page                 |
+| In-text Citation  | (Author Year) or Footnotes       | (Author, Year)                     | (Author Page)               |
+| Reference Section | Bibliography                     | References                         | Works Cited                 |
+| Focus             | Detailed documentation           | Date of publication                | Author and page number      |
+
+
+
+
+
+>>>>> Reference Management Software <<<<< -----> Module 9 line 199
+
+
+| Feature             | Zotero                              | Mendeley       | EndNote    | RefWorks     |
+| ------------------- | ----------------------------------- | -------------- | ---------- | ------------ |
+| Developer           | Corporation for Digital Scholarship | Elsevier       | Clarivate  | ProQuest     |
+| Cost                | Free                                | Free + Premium | Commercial | Subscription |
+| Open Source         | Yes                                 | No             | No         | No           |
+| Cloud Sync          | Yes                                 | Yes            | Yes        | Yes          |
+| PDF Annotation      | Yes                                 | Yes            | Yes        | Limited      |
+| MS Word Integration | Yes                                 | Yes            | Yes        | Yes          |
+| Collaboration       | Good                                | Excellent      | Good       | Good         |
