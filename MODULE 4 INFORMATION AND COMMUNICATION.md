@@ -481,7 +481,7 @@
 
 | Period               | Development                           | Key Persons/Organizations                                                                                  |
 | -------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Ancient–19th Century | Info organized through libraries, archives and bibliographies    | Libraries and documentation centers                                                                        |
+| Ancient–19th Century | Info organized through libraries, archives and bibliographies           | Libraries and documentation centers                                                                        |
 | 1895                 | Beginning of modern Documentation Movement                              | Paul Otlet and Henri La Fontaine founded the International Institute of Bibliography                       |
 | 1934                 | Concept of Documentation expanded                                       | Paul Otlet's *Traité de Documentation*                                                                     |
 | 1945                 | Idea of mechanized information retrieval                                | Vannevar Bush proposed **Memex** in the article *As We May Think*                                          |

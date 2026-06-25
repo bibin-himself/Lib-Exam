@@ -277,7 +277,7 @@ Author Entry: Fitzgerald, F. Scott (Francis Scott), 1896-1940.Subject Headings: 
 
 - Logical/Systematic arrangement by class numbers
 - Two parts: Classed part + Alphabetical Index
-- Difficult for ordinary users; index neede first
+- Difficult for ordinary users; index needed first
 - Related subjects kept together
 - Depends on classi scheme (DDC, CC, UDC)
 - Subject approach
@@ -302,7 +302,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
 
 
 `// Bibliographic Description \\`
- Systematic description of a doc to identify and distinguish it from other
+ Systematic description of a doc to identify and distinguish it from others
 
  Based on standards such as:
   - ISBD
@@ -374,7 +374,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
     Query in URL
     Returns XML
 
-  >//// SRU ////<
+  >//// SRW ////<
     Search/Retrieve Web Service
 
     Same as SRU; more structured web service protocols (SOAP)
@@ -390,7 +390,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
  
  >// OAI-PMH //<
    Open Archives Initiative Protocol for Metadat Harvesting
-
+   For batch data transfer and synchronization.
    For Bulk data harvesting
  
 
@@ -478,7 +478,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
    1. Bibliographic Format: For Cataloguing books, journals
    2. Authority Format: Authorized names, subjects, headings
    3. Holdings format: copy/location info
-   4. COmmunity Info Format: Community resource info
+   4. Community Info Format: Community resource info
    5. Classification Data Format: Classi no & schemes  
 
   Supports 2 encoding systems
@@ -550,7 +550,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
 
    Metadata framework used with Dublin Core  `RDF`
 
-   For web pages, Iages, Videos, E=books, CDs, Digi Repos etc
+   For web pages, Images, Videos, E=books, CDs, Digi Repos etc
 
    Developed by Dublin Core Metadata Initiative(DCMI)
    1995 Dublin, Ohio, USA
@@ -656,14 +656,14 @@ resource.”
 
   Dev by
    Digital Library Foundation - initiative
-   Library of COngress - Maintenance
+   Library of Congress - Maintenance
 
   > Designed for:
      Expressing hierarchial structure of digi objects
      Recording names and locations of files
      Recording associated metadata
 
-  NO Vocabulary
+  No Vocabulary
   Flexible, Customizable
 
   `Sections`
@@ -739,7 +739,7 @@ resource.”
  
    2. Hierarchial Relationship
       > BT/NT
-        BT (Broader Term)  - Wider COncept
+        BT (Broader Term)  - Wider Concept
         NT (Narrower term) - Specific Concept
       Eg: Animal (BT)
            Dog (NT)
@@ -1066,7 +1066,7 @@ resource.”
 
        Resource management
        Preservation
-       RIghts control
+       Rights control
 
        `Elements`:
         Creation date, File type, Access rights, Ownership, Preservation information

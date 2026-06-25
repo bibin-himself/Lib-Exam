@@ -32,7 +32,7 @@
   Easy consultation
   General overview
   > Eg:
-     Encyclopaedias, Dictionaries, Bibliographies, Guides, Directories, Almanacs, Gazetteers, Handbooks, Library Catalogues, Yearbooks
+     Encyclopaedias, Dictionaries, Bibliographies, Guides, Directories, Almanacs, Gazetteers, Handbooks, Library Catalogues, Yearbooks etc
      
 
 

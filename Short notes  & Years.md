@@ -3,30 +3,50 @@
 `/////IMPORTANT CHRONOLOGIES\\\\`
 
 
+Calcutta Public Library     - 1835
+Imperial Library            - 1891
+Nation Library of India     - 1948
+
+Connemara                   - 1896
+
+
+Travancore Granthasala Sangham      : 1945
+Kerala Granthasala Sangham (KGS)    : 1956
+Kerala State Library Council        : 1977
+
+
+Delivery of Books and Newspapers Act  - 1954
+IPR Act                — 1956
+Copyright Act          — 1957
+Patent Act             — 1970
+Information Technology Act — 2000
+Press and Registration of Periodicals - 2023
+
+
 
 > Library Associations of World
 
-ALA     — 1876
-SLA     — 1909
-APLA    — 1914
-ASLIB   — 1924
-ILA     — 1933
-IASLIC  — 1955
-IATLIS  — 1969
-SIS     — 1975
-CILIP   — 2002
+ALA         —     1876
+SLA         —     1909
+APLA        —     1914
+ASLIB       —     1924
+ILA         —     1933
+IASLIC      —     1955
+IATLIS      —     1969
+SIS         —     1975
+CILIP       —     2002
 
 Library Association (UK): 1877 now known Chartered institute of Library and Information Professionals (From 2002) (now name changed in 2002 as CILIP)
 
 American Library Association:   1876
-Association of Special Libraries and Information Beureaux - ASLIB      1926
+Association of Special Libraries and Information Beureaux - ASLIB      1924
 
 IFLA: 1929
 UBC: 1974, UAP: 1976
 Special Library Association (SLA):        1909
 FID:           1982
 UNESCO:        1945
-India Library Association:        1933
+India Library Association:     1933
 IASLIC:        1955
 RRRLF:         1972
 
@@ -240,6 +260,32 @@ Network Society:                Manuel Castells.
 | ADI renamed ASIS        | 1968                                                        |
 | Nature                  | Interdisciplinary                                           |
 | Core Activities         | Collection, Organization, Storage, Retrieval, Dissemination |
+
+
+
+>>>>> Canon of Characteristics <<<<<
+> DRAP
+
+*   Differentiation	    Must divide
+    Relevance	        Must be useful
+    Ascertainability	Must be verifiable
+    Permanence	        Must be stable
+
+
+>>>>> Canons for Succession of Characteristics <<<<<
+> CRC
+
+*   Concomitance	        Avoid duplicate divisions
+    Relevant Succession	    Follow useful order
+    Consistent Succession	Follow same order always
+
+
+>>>>> Canons for Array <<<<<
+> EEH
+
+* Exhaustiveness	No entity left out
+  Exclusiveness	    No overlap
+  Helpful Sequence	Useful order
 
 
 

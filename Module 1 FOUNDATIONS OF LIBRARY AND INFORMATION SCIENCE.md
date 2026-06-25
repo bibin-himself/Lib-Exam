@@ -1,13 +1,13 @@
 
 
 `//Social Foundations of libraries//`
- 3 pillars: EDucation, Information, recreation
+ 3 pillars: Education, Information, recreation
 
 
 `//Historical Foundation: Libraries in India//`
   
   > Ancient Period:
-   Oral Traditions & manuscript collections   in Buddhist Viharas (Nalanda, Taxila)
+   Oral Traditions & manuscript collections in Buddhist Viharas (Nalanda, Taxila)
   > Medival Period:
    Royal Libraries - Mughals, Tanjore Saraswathy Mahal
   > Modern Period:
@@ -244,7 +244,7 @@ Supporting Elements:
   
   - Nominated Members: 1 librarian, 1 woman, 1 SC/ST
 
-  - Ex-officio Members: secr/prin.Secr of:
+  - Ex-officio Members: secre/prin.Secre of:
      Higher Edu, Gen Edu, Finance, Cultural Affairs, Local Adminstration
 
 > State Executive Commitee
@@ -257,13 +257,13 @@ Supporting Elements:
 
 
 > CHRONO ORDER <
-  Copyright Act     — 1957
-  Patent Act        — 1970
+  Delivery of Books and Newspapers Act  - 1954
+  IPR Act                — 1956
+  Copyright Act          — 1957
+  Patent Act             — 1970
   Information Technology Act — 2000
-  IPR Act           — 1956
+  Press and Registration of Periodicals - 2023
   
-
-
 
 `//Press and Registration of Books (PRB)  1876 \\`
 
@@ -275,7 +275,7 @@ Supporting Elements:
 
 > Submit Copies: 
   Publishers had to send copies to gov archives
-> Criminal Penalties: 
+> Criminal Penalties
 > Created RNI (Registrar of Newspapers of India)
 
 `Replaced by Press and Registration of Periodicals - 2023`
@@ -297,7 +297,7 @@ Ammended: 1956 → Became Delivery of Books and Newspapers Act
   Publishers must give copies to public Libraries
   Applies to nooks, newspapers, Serials
   1 copy within 30 days
-  To National Lib Kolkatta, Connemara Public Library, Chennai, Central Library, Delhi Public Library
+  To National Lib Kolkatta, Connemara Public Library Chennai, Central Library, Delhi Public Library
 
  
 
@@ -451,7 +451,7 @@ IFLA-UNESCO School Library Manifesto (Updated):
  1895 as International Institute of Bibliography (IIB)
  By Paul Otlet & Henry La Fontaine in Belgium
 
- Supported Bibliographic Control,UDC
+ Supported Bibliographic Control, UDC
 
 - Publications:
   FID News Bulletin: Monthly

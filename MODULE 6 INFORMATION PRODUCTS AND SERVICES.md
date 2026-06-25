@@ -139,7 +139,7 @@
       Analyzes the structural "gap" in the user's concept
             ↓
      `Info Retreival System`:
-      Analyzes the structural  "gap" in the user's concept
+      Analyzes the structural "gap" in the user's concept
             ↓
      `Info Presentation`:
       Matches documents that bridge the specific cognitive anomaly     
@@ -221,9 +221,9 @@
 
   Scholar	              Definition Focus
   James I. Wyer	        Assistance in using library resources
-  Margaret Hutchins	    Direct personal aid
-  Samuel Rothstein	    Personal assistance in pursuit of info
-  S. R. Ranganathan	    Right reader and right book
+  Margaret Hutchins	     Direct personal aid
+  Samuel Rothstein	     Personal assistance in pursuit of info
+  S. R. Ranganathan	     Right reader and right book
 
 
 
@@ -368,7 +368,7 @@
   
   Formed through the merger of:
    - NISCOM (National Institute of Science Communication)
-      +
+      `+`
    - INSDOC (Indian National Scientific Documentation Centre)
 
    PID (1951)
@@ -407,7 +407,7 @@
      4. MAPA: Medicinal and Aromatic Plants Abstracts 
 
      Encyclopedic Publications
-     1. The Wealth of India:   Plant,animal,mineral, resources
+     1. The Wealth of India: Plant,animal,mineral, resources
 
 
   > NSL
@@ -417,9 +417,9 @@
      
     > Major Databses developed
      NUCSSI:	    National Union Catalogue of Scientific Serials in India
-     INPAT:	      Indian Patents Database
-     MAPA:	      Medicinal and Aromatic Plants Abstracts
-     ISA:	        Indian Science Abstracts
+     INPAT:	       Indian Patents Database
+     MAPA:	       Medicinal and Aromatic Plants Abstracts
+     ISA:	       Indian Science Abstracts
 
   > RHMD
      Raw Materials Herbarium & Museum

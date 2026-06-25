@@ -20,7 +20,7 @@
      Formed by interaction of 2 or more subjects
      Eg: Physics in Medicine, Economics of Education etc
 
- 4. Multidisciplinary/Interdisciplinary SUbjects
+ 4. Multidisciplinary/Interdisciplinary Subjects
      Draw knowledge from several disciplines
      Eg: Environmental Studies, Data Science etc
      

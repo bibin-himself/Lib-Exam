@@ -23,12 +23,12 @@
   1. Scientific Management
     Founder: Frederick Winslow Taylor
     There is "one best way" to perform a job through scientific study.
-    - Replaced rule-of-thumb work methods with proven methds
+    - Replaced rule-of-thumb work methods with proven methods
      > Principles
         Science, not rule of thumb
         Harmony, not discord
         Cooperation, not individualism
-        Maximum outout
+        Maximum output
         Development of workers
  
      > Contribution
@@ -42,7 +42,7 @@
       Founder: Henry Fayol
       Focuses on structuring an entire organization to improve efficiency and coordination.
       
-      Shifts the `focus from individual worker tasks` (like Scientific Management) to the `overall organizational structure`, managerial behaviors, and administrative systems
+      Shifts the `focus from individual worker tasks` (like Scientific Management) `to` the `overall organizational structure`, managerial behaviors, and administrative systems
 
       > 5 Functions of Management
        1. Planning
@@ -77,7 +77,7 @@
 
 
 
-`// Classical School of Management \\`
+`// Neo-Classical School of Management \\`
   Developed as reaction against the mechanical approach of the Classical School.
   Focus on human behavior, psychology, and social relations in the workplace.
   - Human relations
@@ -85,12 +85,12 @@
   
   > Major Pillars
      1. The Human Relations Movement
-         Elton Mayo
+         Elton Mayo (The Hawthorne Studies)
          Workers are social beings with emotional needs, not just economic cogs.
          Introduced the idea that treating workers with respect, their well-being
 
      2. The Behavioral Science Approach
-         Maslow, McGregor, Herzberg
+         Maslow, McGregor, Herzberg (Two-Factor Theory Of Motivation-Hygiene)
          Applies psychology and sociology to understand why employees behave the way they do.
 
 
@@ -179,6 +179,7 @@
   An org is a system of interrelated parts working together.
 
   > Core System Components
+    ITOF
 
   
     ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -504,8 +505,6 @@
 
 
 
-
-
 `// Quality Management Frameworks \\`
 
 > TQM (Total Quality Management)
@@ -522,7 +521,7 @@
   - Relationship Management
 
   > PDCA Cycle (Deming Cycle)
-     PLAN > Do > CHECK > ACT
+     PLAN > DO > CHECK > ACT
   
   > TQM Tools
      1. Check Sheet: For data collection
@@ -610,8 +609,7 @@
 
    * ISO 9004
       Guidance for sustained organizational success and performance improvement.
-      
-      Focus: `How can quality be improved beyond minimum requirements?`
+       Focus: `How can quality be improved beyond minimum requirements?`
 
    * ISO 19011
       Provides guidelines for auditing management systems.

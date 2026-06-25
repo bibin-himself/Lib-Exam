@@ -5,7 +5,7 @@
   > Narrative Writing 
      To tell a story or describe events.
      Chronological order
-     Beginning, middle, and end
+     Beginning, middle and end
      Eg: Novels, Short stories, Biographies, Autobiographies
 
   > Descriptive Writing
@@ -50,7 +50,7 @@
      Accuracy, Conciseness, Completeness, Objectivity, Consistency, Simplicity, Logical, Readability
 
   > Examples
-     Manuals, Technical reports, User guides, Standard operating procedures, Project reports,Scientific documentation
+     Manuals, Technical reports, User guides, Standard operating procedures, Project reports, Scientific documentation
 
 
 

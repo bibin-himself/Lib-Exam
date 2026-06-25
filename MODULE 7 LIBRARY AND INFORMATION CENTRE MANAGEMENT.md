@@ -21,7 +21,7 @@
      > Procedure
       Uses:
        Borrower's card, Book Card, Date Slip
-      Records are maintained systematically for circulation control.
+       Records are maintained systematically for circulation control.
       - Time-consuming.
       - Requires more paperwork.
 

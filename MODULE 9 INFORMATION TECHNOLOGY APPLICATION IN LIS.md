@@ -2,7 +2,7 @@
 
 `\\\ File Requirements for Acquisition ///`
   1. Vendor/Supplier File
-      Details of book suppliers, publishers, distributors, &  vendors.
+      Details of book suppliers, publishers, distributors, & vendors.
       > Contents:
          Vendor ID, Vendor Name, Address, Contact, Supply terms, Specialization, Discount
          
@@ -30,7 +30,7 @@
       > Purpose:
          Permanent record of library holdings, Stock verification
       > Contents:
-         Accession Number, Title, Author, COst, Source
+         Accession Number, Title, Author, Cost, Source
 
   6. Fund/Budget File
       Contains financial information relating to acquisitions.
@@ -138,7 +138,7 @@
     2006
     Georgia Public Library Service
    - Open source
-   - Scalbale
+   - Scalable
    - Suitable for `library consortia`
 
  > LibSys
@@ -305,6 +305,20 @@
         Common in laptops and smartphones.
 
    Works mainly at the `Physical Layer` and Data Link Layer of the OSI Model.
+
+
+
+
+`//// OSI MODEL \\\\`
+
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+
 
 
 
@@ -595,6 +609,7 @@ Internet is a                 →       WAN
 
 
 `//// DSL \\\\`
+  Digital Subscriber Line 
   Broadband technology that provides high-speed Internet access through existing copper telephone lines.
 
   > Types
@@ -634,8 +649,8 @@ Internet is a                 →       WAN
        Anonymous FTP, Authenticated FTP
 
   2. HTTP
-    HyperText Transfer Protoco
-    standard protocol used for transferring web pages & other resources on the World Wide Web.
+    HyperText Transfer Protocol
+    Standard protocol used for transferring web pages & other resources on the World Wide Web.
     Dev by Tim Berners-Lee @ CERN
 
     `Browser ↔ Web Server`
