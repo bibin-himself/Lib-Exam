@@ -15,12 +15,73 @@ Kerala Granthasala Sangham (KGS)    : 1956
 Kerala State Library Council        : 1977
 
 
-Delivery of Books and Newspapers Act  - 1954
+Delivery of Books and Newspapers Act  - 1954 Amended - 1956
 IPR Act                — 1956
 Copyright Act          — 1957
 Patent Act             — 1970
 Information Technology Act — 2000
 Press and Registration of Periodicals - 2023
+
+
+
+
+>>>>>>COMMISSIONS<<<<<<<
+
+
+`Bhore Committee (1943)`
+  → Earliest blueprint for medical/health science libraries.
+
+`Radhakrishnan Commission (1948)`
+  → Recommended 6.5% university budget allocation for university libraries.
+ 
+`Mudaliar Commission (1952)`
+  → Advocated open-shelf systems and trained librarians for school libraries.
+ 
+`K.P. Sinha Committee (1957)`
+ (The Advisory Committee for Libraries)
+  → Drafted framework for public library development and State Library Acts.
+  
+`UGC Library Committee (1957)`
+   → Chaired by Ranganathan; created the UGC Staff Formula and per-capita book grants.
+   
+`UGC Review Committee (1961)`
+  → Chaired by Ranganathan; standardized university B.Lib.Sc. & M.Lib.Sc. curriculum.
+    
+`Kothari Commission (1964)`
+  → Declared "Library is `the heart of every educational institution" (recommended 6.5%–10% budget).
+
+`Working Group on Libraries (1964)`
+  → Chairman: Dr. V. K. R. V. Rao.
+  Report Submitted: 1965
+  Focused on evaluation and structured growth of public libraries in India.
+  Major Output: Drafted and appended a Model Public Libraries Bill (1965).
+
+`Mehrotra Committee (1983)`
+  → Recommended faculty pay parity and revised service scales for academic librarians.
+ 
+`CONPOLIS / Chattopadhyaya (1985)`
+  → Drafted the National Policy on Library and Information Systems.
+ 
+`Yash Pal Committee (1988)`
+  → Recommended academic database resource-sharing, directly creating INFLIBNET.
+  
+`P.N. Kaula Committee (1990)`
+  → First major push to integrate IT/computers into the LIS syllabus.
+ 
+`Rastogi Committee (1997) `
+  → Revised promotional structures and pay scales for university library staff.
+ 
+`Karisiddappa Committee (2001)`
+  → Formulated the modern UGC Model Curriculum for the digital era.
+ 
+`National Knowledge Commission (2005)`
+  → Pushed for digital libraries, ICT application, and a National Virtual Library.
+  
+`National Mission on Libraries (2012)`
+  → Funded the modernization of public libraries and creation of the NVLI.
+
+
+
 
 
 
@@ -68,16 +129,91 @@ International Classification by F. Rider:        1961
 Library of Congress Subject Headings:        1898
 AACR first published:        1908
 Sears List of Subject Headings (SLSH):       1923
+CCC:         1964
 MARC:        1966
 AACR-I:      1967
-CCF:         1972
+MARC 2:      1968
 ISBD:        1974 - Standard Version.  1971- Origin
 UNIMARC:     1977
 AACR-II:     1978
+CCF:         1984
+MARC 21:     1999
 
 RDF          1991
 Dublin Core  1995
 BIBFRAME     2012
+
+
+
+
+
+
+>>>>> Main Classes of Colon Classification <<<<<
+
+| Notation      | Main Class                             |
+| ------------- | -------------------------------------- |
+| A             | Generalia                              |
+| B             | Mathematics                            |
+| C             | Physics                                |
+| D             | Engineering & Technology               |
+| E             | Chemistry                              |
+| F             | Agriculture                            |
+| G             | Biology                                |
+| H             | Geology                                |
+| I             | Botany                                 |
+| J             | Zoology                                |
+| K             | Medicine                               |
+| L             | Useful Arts                            |
+| **M**         | **Useful Arts**                        |
+| **Δ (Delta)** | **Spiritual Experience and Mysticism** |
+| N             | Fine Arts                              |
+| O             | Literature                             |
+| P             | Linguistics                            |
+| Q             | Religion                               |
+| R             | Philosophy                             |
+| S             | Psychology                             |
+| T             | Education                              |
+| U             | Geography                              |
+| V             | History                                |
+| W             | Political Science                      |
+| X             | Economics                              |
+| Y             | Sociology                              |
+| Z             | Law                                    |
+
+
+
+
+>>>>>UDC Common Auxiliaries<<<<<
+
+
+
+| Symbol     | Indicates                     |
+| ---------- | ----------------------------- |
+| **=**      | **Language** ✅                |
+| **(0...)** | Form                          |
+| **(...)**  | Place (Space)                 |
+| **"..."**  | Time                          |
+| **+**      | Addition                      |
+| **/**      | Consecutive extension (Range) |
+| **:**      | Simple relation               |
+| **::**     | Order-fixing relation         |
+| **[]**     | Subgrouping                   |
+
+
+
+
+
+
+Main Entry:
+ The foundational, complete entry for a book. In CCC, it is a `Number Entry` and is filed in the `Classified Part`.
+
+Cross-Reference Entry:
+ A specific Number Entry (`subject analytical`) used to `direct a user to a specific portion` or chapter inside a book. It is also filed in the `Classified Part`.
+
+Class Index Entry (CIE):
+ An `added Word Entry derived using the Chain Procedure`. It leads a user from a `verbal subject heading to a class number`. It is filed in the `Alphabetical Part`.
+
+
 
 
 
@@ -153,6 +289,20 @@ Year of Pub:
 Science Citation Index 1974
 Social Science Citation Index 1973
 Arts & Humanities Citation Index 1978
+
+
+
+
+
+>>>> POPSI STEPS <<<<<
+Verbal Representation (Content Analysis)
+Display of Components (Formalisation)
+Short Display / Standardisation (Semantic check)
+Approach Terms (Selection of entry points)
+Deriving Subject Index Entries (Preparation of entries)
+Display of Subject Index Entries
+Cross ReferencesAlphabetical Arrangement (Alphabetisation)
+
 
 
 
@@ -251,6 +401,28 @@ Network Society:                Manuel Castells.
 
 
 
+| Term                    | Associated Persons                |
+| ----------------------- | --------------------------------- |
+| Informatics             | Mikhailov, Chernyi & Gilyarevskii |
+| Bibliometrics           | Alan Pritchard                    |
+| Scientometrics          | Derek J. de Solla Price           |
+| Information Retrieval   | Calvin Mooers                     |
+
+
+
+
+
+| Law / Person            | Associated With         | Year                                                             |
+| ----------------------- | ----------------------- | ---------------------------------------------------------------- |
+| George Kingsley Zipf    | **Word Frequency**      | **1935** (popularized in *The Psycho-Biology of Language*, 1935) |
+| Eugene Garfield         | **Impact Factor**       | **1955** (concept), first JCR in **1975**                        |
+| Samuel C. Bradford      | **Law of Scattering**   | **1934**                                                         |
+| Alfred J. Lotka         | **Author Productivity** | **1926**                                                         |
+
+
+
+
+
 | Topic                   | Important Point                                             |
 | ----------------------- | ----------------------------------------------------------- |
 | Father of Documentation | Paul Otlet                                                  |
@@ -287,6 +459,19 @@ Network Society:                Manuel Castells.
   Exclusiveness	    No overlap
   Helpful Sequence	Useful order
 
+
+
+>>>>> 9 Canons of Cataloguing <<<<<
+
+Canon of Ascertainability (1938)
+Canon of Prepotence (1938)
+Canon of Relevance (1938)
+Canon of Consistency (1938)
+Canon of Currency (1938)
+Canon of Permanence (1938)
+Canon of Context (Added in 1955)
+Canon of Individualization (Added in 1958)
+Canon of Recall Value (Added final in 1969)
 
 
 
@@ -967,3 +1152,98 @@ ERIC Portal
 | Ledger         | Manual         | Ledger Register             |
 | Photo Charging | Semi-automatic | Photographic Record         |
 | Automated      | Computerized   | Database Record             |
+
+
+
+
+
+
+>>>>>S. R. Ranganathan's 8 Steps of Practical Classification <<<<<<<<
+
+**Example Title:** *Treatment of Malaria*
+
+ **Step 0: Raw Title**
+
+**Original title as printed.**
+
+> *Treatment of Malaria*
+
+---
+
+ **Step 1: Expressive Title**
+
+**Add hidden/implied concepts.**
+
+> *Treatment of the Disease Malaria in Medicine*
+
+---
+
+ **Step 2: Kernel Title**
+
+**Remove unnecessary words; keep only key terms.**
+
+> *Medicine, Disease, Malaria, Treatment*
+
+---
+
+ **Step 3: Analyzed Title**
+
+**Identify the facets (PMEST).**
+
+> Medicine (MC), Disease (P), Malaria (P), Treatment (E)
+
+---
+
+ **Step 4: Transformed Title**
+
+**Arrange terms in the correct facet order.**
+
+> Medicine → Disease → Malaria → Treatment
+
+---
+
+ **Step 5: Title in Standard Terms**
+
+**Replace with authorized/standard terms.**
+
+> *Treatment* → **Therapeutics**
+
+---
+
+ **Step 6: Title in Facet Numbers (Translated Title)**
+
+**Convert terms into notation.**
+
+> L, 4, 421, 6 *(illustrative)*
+
+---
+
+ **Step 7: Class Number (Synthesized Title)**
+
+**Combine the notations to form the final class number.**
+
+> **L4,421:6** *(illustrative)*
+
+---
+
+## Easy Flow to Remember
+
+```text
+Raw
+ ↓
+Expressive
+ ↓
+Kernel
+ ↓
+Analyzed
+ ↓
+Transformed
+ ↓
+Standard Terms
+ ↓
+Facet Numbers
+ ↓
+Class Number
+```
+
+

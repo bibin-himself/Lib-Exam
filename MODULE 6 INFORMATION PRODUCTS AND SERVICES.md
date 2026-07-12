@@ -684,7 +684,7 @@
      SERLINE: Serials database
 
   > Publications
-     Index Medicus
+     Index Medicus - 1879
       Comprehensive index to biomedical journal literature.
       Produced using MEDLARS database.
       Internationally recognized medical bibliography.
