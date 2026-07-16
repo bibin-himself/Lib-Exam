@@ -5,7 +5,7 @@
 
 Calcutta Public Library     - 1835
 Imperial Library            - 1891
-Nation Library of India     - 1948
+National Library of India   - 1948
 
 Connemara                   - 1896
 
@@ -124,6 +124,7 @@ International Classification by F. Rider:        1961
 
 
 
+
 > Cataloguing and Bibliographic Description Standards, Subject Headings
 
 Library of Congress Subject Headings:        1898
@@ -142,6 +143,22 @@ MARC 21:     1999
 RDF          1991
 Dublin Core  1995
 BIBFRAME     2012
+
+
+
+J. Kaiser:  Systematic Indexing method (1911)
+ 
+C. A. Cutter:Rules for a Dictionary Catalog (1876),
+   which laid down the foundational principles for modern dictionary and subject cataloguing
+
+
+
+
+>>>>>> CODEN <<<<<<<
+ Created by Charles Bishop in 1953
+ Unique, 6-character alphanumeric code
+ Designed specifically for the unambiguous identification of serial publications,
+ Particularly scientific, technical, and medical journals.
 
 
 
@@ -301,7 +318,7 @@ Short Display / Standardisation (Semantic check)
 Approach Terms (Selection of entry points)
 Deriving Subject Index Entries (Preparation of entries)
 Display of Subject Index Entries
-Cross ReferencesAlphabetical Arrangement (Alphabetisation)
+Cross References Alphabetical Arrangement (Alphabetisation)
 
 
 
@@ -392,7 +409,7 @@ Dervin Model	Brenda Dervin	   Gap-bridging approach
 ASK Model	   Nicholas Belkin	Anomalous State of Knowledge
 
 
->>>>> Information Society <<<<<  -----> Module 6 line 496
+>>>>> Information Society <<<<<  
 Knowledge Industry Concept:     Fritz Machlup.
 Knowledge Worker Concept:       Peter Drucker.
 Post-Industrial Society:        Daniel Bell.
@@ -423,6 +440,42 @@ Network Society:                Manuel Castells.
 
 
 
+
+>>>>>>> 8 Areas of ISBD <<<<<<<<
+
+| Area  | Name                                | Example                              |
+| ----- | ----------------------------------- | ------------------------------------ |
+| **1** | Title & Statement of Responsibility | *Library Science / S.R. Ranganathan* |
+| **2** | Edition                             | 3rd ed.                              |
+| **3** | Material-Specific Details           | Scale, numbering, etc.               |
+| **4** | Publication, Distribution, etc.     | New Delhi : Ess Ess, 2023            |
+| **5** | Physical Description                | xii, 350 p. : ill. ; 25 cm           |
+| **6** | Series                              | (Library Science Series ; 12)        |
+| **7** | Notes                               | Includes bibliography                |
+| **8** | Resource Identifier & Availability  | ISBN, ISSN, Price                    |
+
+
+
+
+>>>>>>> Prescribed Punctuation in ISBD <<<<<<<<
+
+| Symbol  | Meaning                                |
+| ------- | -------------------------------------- |
+| **=**   | Parallel title                         |
+| **:**   | Other title information                |
+| **/**   | Statement of responsibility            |
+| **;**   | Additional statement of responsibility |
+| **,**   | Publication details                    |
+| **+**   | Accompanying material                  |
+| **()**  | Series statement                       |
+| **. –** | Beginning of a new area                |
+
+
+
+
+
+
+
 | Topic                   | Important Point                                             |
 | ----------------------- | ----------------------------------------------------------- |
 | Father of Documentation | Paul Otlet                                                  |
@@ -439,23 +492,23 @@ Network Society:                Manuel Castells.
 > DRAP
 
 *   Differentiation	    Must divide
-    Relevance	        Must be useful
-    Ascertainability	Must be verifiable
+    Relevance	          Must be useful
+    Ascertainability	  Must be verifiable
     Permanence	        Must be stable
 
 
 >>>>> Canons for Succession of Characteristics <<<<<
 > CRC
 
-*   Concomitance	        Avoid duplicate divisions
+*   Concomitance	          Avoid duplicate divisions
     Relevant Succession	    Follow useful order
-    Consistent Succession	Follow same order always
+    Consistent Succession	  Follow same order always
 
 
 >>>>> Canons for Array <<<<<
 > EEH
 
-* Exhaustiveness	No entity left out
+* Exhaustiveness	  No entity left out
   Exclusiveness	    No overlap
   Helpful Sequence	Useful order
 
@@ -464,7 +517,7 @@ Network Society:                Manuel Castells.
 >>>>> 9 Canons of Cataloguing <<<<<
 
 Canon of Ascertainability (1938)
-Canon of Prepotence (1938)
+Canon of Prepotence (1938) : Entry elements must be arranged by the highest statistical probability of a user searching for them.
 Canon of Relevance (1938)
 Canon of Consistency (1938)
 Canon of Currency (1938)
@@ -485,14 +538,14 @@ Canon of Recall Value (Added final in 1969)
 >>>>> NISCAIR <<<<<
 National Institute of Science Communication and Information Resources
 Established:   	            2002
-Parent body	:                 CSIR
+Parent body	:               CSIR
 Headquarters:  	            New Delhi
 Formed by merger of: 	      NISCOM + INSDOC
 Merged into:   	            NIScPR
-Year of merger:   	         2021
+Year of merger:   	        2021
 Famous LIS journal:  	      Annals of Library and Information Studies
-Famous science magazine:      Science Reporter
-Landmark publication:         The Wealth of India
+Famous science magazine:    Science Reporter
+Landmark publication:       The Wealth of India
 
 > NIScPR Publications
 Important Journals

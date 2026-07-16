@@ -44,7 +44,7 @@
 
   Linear Model
   Emphasizes effect of communication
-  Wodely used in mass communication
+  Widely used in mass communication
 
   Eg: News Channel → News → Television → Viewers → Awareness
 
@@ -381,7 +381,7 @@
 
   Ensure publicly funded`research freely available` to everyone.
 
-  | Year | Initiative                                                        | Importance                                 |
+| Year | Initiative                                                        | Importance                                 |
 | ---- | ----------------------------------------------------------------- | ------------------------------------------ |
 | 1991 | arXiv launched by Paul Ginsparg at Los Alamos National Laboratory | First major preprint repository            |
 | 2002 | Budapest Open Access Initiative                                   | Formal beginning of OA movement            |
