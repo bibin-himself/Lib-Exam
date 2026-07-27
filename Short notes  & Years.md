@@ -144,6 +144,9 @@ RDF          1991
 Dublin Core  1995
 BIBFRAME     2012
 
+AACR2 Revision (Last)	    2002
+AACR2 Replaced by RDA	    2010
+
 
 
 J. Kaiser:  Systematic Indexing method (1911)
@@ -202,8 +205,6 @@ C. A. Cutter:Rules for a Dictionary Catalog (1876),
 
 >>>>>UDC Common Auxiliaries<<<<<
 
-
-
 | Symbol     | Indicates                     |
 | ---------- | ----------------------------- |
 | **=**      | **Language** ✅                |
@@ -235,6 +236,42 @@ Class Index Entry (CIE):
 
 
 
+
+>>>>> AACR2 <<<<<
+
+1978
+Based on ISBD
+
+RDA replaced GMD with:
+ Content Type
+ Media Type
+ Carrier Type
+
+Structure : Description + Headings
+ Levels of Description:
+  1. Basic Description
+  2. Standard Description: Commonly used. Mainly in Libraries
+  3. Detailed Description: Used in Special & National Libs
+
+Sources of Information
+ Title page (Primary), Verso, Cover, Colophon, External sources
+
+Main Entry: 
+ Author, Corporate Author, Title (If no author)
+
+Added Entry: Editors, Translator, Joint Author, Series, Title
+
+`General Material Description`
+  Tells what type of material the document is.
+  Uses Square Brackets [ ]
+  Eg: [sound recording], [videos recording], [microform] etc.
+
+ 
+
+
+
+
+
 > Library Networks–World
 Online Computer Library Centre (OCLC)   1967
 Research Library Group (RLG)-RLIN   1974
@@ -242,6 +279,7 @@ Joint Academic Network (JANET)
 Consortium of University Research Libraries (CURL)  1997
 China Academic Library & Information System     1998
 Australian Academic & Research Library Network
+
 
 > Library Networks – India
 NICNET          1977
@@ -270,7 +308,6 @@ UNISIST Programme 1971
 
 
 > Library Related Software
-
 Library Management Software and Digital Library Software
 CDS/ISIS 1985 WINISIS 1995
 SOUL 2000 GREENSTONE 1997
@@ -441,6 +478,47 @@ Network Society:                Manuel Castells.
 
 
 
+
+>>>>>>> Cataloguing Flow <<<<<<<<
+
+Need to catalogue a book
+        │
+        ▼
+AACR2 / RDA
+(What rules to follow?)
+        │
+        ▼
+ISBD
+(How to write the description?)
+        │
+        ▼
+MARC21
+(How to store it in a computer?)
+        │
+        ▼
+OPAC / Library Software
+(How users search and retrieve it?)
+
+
+
+>>>> MARC <<<<<
+
+| Component       | Purpose            |
+| --------------- | ------------------ |
+| Leader          | Record information |
+| Directory       | Location of fields |
+| Variable Fields | Bibliographic data |
+
+
+
+
+
+>>>>>>> ISBD <<<<<<<<
+
+ Founded on 1969
+ Consolidated ISBD on 2011
+
+
 >>>>>>> 8 Areas of ISBD <<<<<<<<
 
 | Area  | Name                                | Example                              |
@@ -469,6 +547,173 @@ Network Society:                Manuel Castells.
 | **+**   | Accompanying material                  |
 | **()**  | Series statement                       |
 | **. –** | Beginning of a new area                |
+
+
+
+
+
+
+>>>>>>> SHERPA/RoMEO <<<<<<<<
+
+Shows publisher self-archiving policies.
+Tells authors
+Can I upload my paper?
+
+
+| Colour | Can Archive          |
+| ------ | -------------------- |
+| Green  | Preprint + Postprint |
+| Blue   | Postprint            |
+| Yellow | Preprint             |
+| White  | Not Supported        |
+
+
+
+
+`OpenDOAR`
+ Directory of Open Access Repositories
+ 
+ Directory of repositories.
+ Lists DSpace, EPrints, Institutional Repositories Worldwide.
+
+
+`ROAR`
+ Registry of Open Access Repositories
+
+ Registry of repositories.
+ Tracks repository growth.
+
+
+
+
+
+
+>>>>>>> Creative Commons Licenses <<<<<<<<
+
+| License     | Meaning                                     |
+| ----------- | ------------------------------------------- |
+| CC BY       | Attribution only                            |
+| CC BY-SA    | Attribution + ShareAlike                    |
+| CC BY-ND    | Attribution + NoDerivatives                 |
+| CC BY-NC    | Attribution + NonCommercial                 |
+| CC BY-NC-SA | Attribution + NonCommercial + ShareAlike    |
+| CC BY-NC-ND | Attribution + NonCommercial + NoDerivatives |
+
+
+
+
+>>>>>>> Paris Convention <<<<<<<<
+ 1883
+ Protects Industrial Property.
+ Patents, Trademarks, Industrial Designs
+
+
+>>>>>>> Berne Convention <<<<<<<<
+ 1886
+ Protects Copyright.
+ Literary works, Artisitic works, Musical works
+
+
+>>>>>>> TRIPS Agreement <<<<<<<<
+ Trade-Related Aspects of Intellectual Property Rights
+ Admin by WTO
+ 1995
+ Trade Focus
+ Part of the Uruguay Round of GATT negotiations
+
+
+>>>>>>> GATT <<<<<<<<
+ General Agreement on Tariffs and Trade
+ International multilateral agreement, not an organization
+ Est: 1947 Came: 1948
+ Hq: Geneva, Swz
+
+ 1995: World Trade Organization (WTO) replaced GATT.
+
+
+
+Turnitin = Academic plagiarism
+iThenticate = Research papers
+Crossref Similarity Check = Journal publishing
+
+
+
+ResearcherID → Web of Science (Clarivate)
+Impact Factor → Journal
+h-index → Researcher
+h-index = Jorge Hirsch (Researcher)
+i10-index = Google Scholar
+Scopus = Elsevier
+Web of Science = Clarivate (originally ISI)
+
+
+>>>>>>> ORCID <<<<<<<<
+ Open Researcher and Contributor ID
+ A unique identifier for researchers.
+
+
+
+>>>>>>> Persistent Identifier (PID) <<<<<<<<
+ Permanent Digital Identity
+ Permanent, unique, and stable identifier assigned to a digital object, person, organization, or dataset
+
+| Identifier | Identifies             | Managed/Developer                                                   |
+| ---------- | ---------------------- | ------------------------------------------------------------------- |
+| DOI        | Digital documents      | International DOI Foundation (via agencies like Crossref, DataCite) |
+| ORCID      | Researchers            | ORCID Inc.                                                          |
+| Handle     | Digital objects        | CNRI, Robert Kahn                                                   |
+| PURL       | Persistent web links   | OCLC (originally)                                                   |
+| URN        | Named resources        | IETF standard                                                       |
+| ARK        | Archival resources     | California Digital Library                                          |
+| ROR        | Research organizations | ROR Initiative                                                      |
+| ISNI       | Authors & creators     | ISO 27729                                                           |
+
+
+DOI is built on top of the Handle System.
+
+
+
+
+
+
+>>>>>>> RDM <<<<<<<<
+ FAIR Principles : 2016
+ F – Findable
+ A – Accessible
+ I – Interoperable
+ R – Reusable
+
+ Related Repos: Zenodo, Figshare, Dryad, Dataverse
+
+
+`Beall's List`:
+ List of potential predatory publishers.
+ Jeffrey Beall
+
+
+Crossref      → DOI Registration Agency for scholarly publications.
+DataCite      → DOI Registration Agency for research datasets.
+Crossmark     → Shows the current version/status of a document.
+COUNTER       → Standard for usage statistics of electronic resources.
+SUSHI         → Automates harvesting of COUNTER usage reports.
+KBART         → Knowledge Bases And Related Tools;
+                Improves metadata exchange between content providers and knowledge bases.
+NDLTD         → Networked Digital Library of Theses and     Dissertations;
+International ETD initiative.
+
+
+
+
+
+
+>>>>>>> Discovery Service vs Federated Search <<<<<<<<
+
+| Discovery Service        | Federated Search                    |
+| ------------------------ | ----------------------------------- |
+| Uses a **central index** | Searches databases in **real time** |
+| Faster                   | Slower                              |
+| Better relevance ranking | Depends on individual databases     |
+| Modern approach          | Older approach                      |
 
 
 
@@ -742,6 +987,18 @@ Major Users	         MSMEs, Entrepreneurs, Researchers
 | Procedural Complexities    | Delayed acquisition approvals          |
 | Lack of Technical Manpower | Staff unable to use databases          |
 | Lack of Cooperation        | No inter-library loan participation    |
+
+
+
+
+>>>>>> Team vs Leadership Models <<<<<<<<<
+
+| Theory  | Developer       | Focus                   |
+| ------- | --------------- | ----------------------- |
+| LaFasto | Frank LaFasto   | Team Success Factors    | Relationship, problem solving, Leaderships, Environment, 
+| Tuckman | Bruce Tuckman   | Team Development Stages | Forming, Storming, Norming, Performing, Adjourning
+| Belbin  | Meredith Belbin | Team Roles              | Action Oriented, Peopel Oriented, Thinking Oriented
+
 
 
 

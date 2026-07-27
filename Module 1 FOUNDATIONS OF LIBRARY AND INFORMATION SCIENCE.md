@@ -381,7 +381,7 @@ Index to Theses — annual.
 `// ILA \\`
 
 Indian Library Association
-1920 - 1st attempt to form (All India association of Public  Libraries)
+1920 - 1st attempt to form (All India association of Public Libraries)
 1933 - founded in calcutta with SR Ranganathan
 
 - To raise the standards of librarianship and lib services in india
@@ -409,13 +409,13 @@ Indian Library Association
 
 Est: 1946
 
->UNESCOS's IFAP (Information for All Programes):
+> UNESCOS's IFAP (Information for All Programes):
   Supports national policies & knowledge strategies
 
->IFLA-UNESCO Public Lib Manifesto (Updated):
+> IFLA-UNESCO Public Lib Manifesto (Updated):
   Endoresd in 2002, translated tomultiple langs
 
-IFLA-UNESCO School Library Manifesto (Updated):
+> IFLA-UNESCO School Library Manifesto (Updated):
   approved in 2025
 
 > Publications:
@@ -455,7 +455,7 @@ IFLA-UNESCO School Library Manifesto (Updated):
 
 - Publications:
   FID News Bulletin: Monthly
-  Onternational Forum on Info & Docu: Quraterly
+  International Forum on Info & Docu: Quraterly
   R&D Projects in Docu  & Librarianship: bi-monthly
   Extensions and Corrections to the UDC: Annual
   FID Directory: bi-annual
