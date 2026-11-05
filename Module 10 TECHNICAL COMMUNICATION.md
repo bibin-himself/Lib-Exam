@@ -164,6 +164,14 @@
           
 
 
+| Style           | Citation Method    |
+| --------------- | ------------------ |
+| APA             | Author–Date        |
+| MLA             | Author–Page        |
+| Chicago (Notes) | Footnotes/Endnotes |
+| Vancouver       | Numbered           |
+
+
 
 
 

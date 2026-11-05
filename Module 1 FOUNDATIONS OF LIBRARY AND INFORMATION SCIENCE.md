@@ -413,7 +413,7 @@ Est: 1946
   Supports national policies & knowledge strategies
 
 > IFLA-UNESCO Public Lib Manifesto (Updated):
-  Endoresd in 2002, translated tomultiple langs
+  Endoresd in 2002, translated to multiple langs
 
 > IFLA-UNESCO School Library Manifesto (Updated):
   approved in 2025
@@ -433,7 +433,7 @@ Est: 1946
 
   IDAMS : Internationally Developed Data Analysis and Management Software - data analysis & statistical Processing
 
-  GenISIS: Creating web search onterfaces for CDS/ISIS DB
+  GenISIS: Creating web search interfaces for CDS/ISIS DB
 
 
 > UNESCO databases/resources
@@ -456,7 +456,7 @@ Est: 1946
 - Publications:
   FID News Bulletin: Monthly
   International Forum on Info & Docu: Quraterly
-  R&D Projects in Docu  & Librarianship: bi-monthly
+  R&D Projects in Docu & Librarianship: bi-monthly
   Extensions and Corrections to the UDC: Annual
   FID Directory: bi-annual
 

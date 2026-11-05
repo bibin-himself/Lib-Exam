@@ -470,7 +470,7 @@
       Machine-readable licensing information
       Open licensing policies
   
-  Supported by OAPEN Foundation
+
 
 
 

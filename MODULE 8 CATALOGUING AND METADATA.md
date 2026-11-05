@@ -548,7 +548,7 @@ Eg: 500-Science, Maths-510, Astronomy-520
 
    Contains `15 metadata elements`
 
-   Metadata framework used with Dublin Core  `RDF`
+   Metadata framework used with Dublin Core  `DCMI Abstract Model (DCAM)`
 
    For web pages, Images, Videos, E=books, CDs, Digi Repos etc
 
@@ -604,7 +604,7 @@ resource.”
 `\\ RDF //`
   Resource Description Framework
 
-  Dev by W3C, 1991
+  Dev by W3C, 1999
 
   For representing and exchanging data on the Semantic Web and Linked Data environment.
 

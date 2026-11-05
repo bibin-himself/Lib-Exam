@@ -3,7 +3,7 @@
 `/////IMPORTANT CHRONOLOGIES\\\\`
 
 
-Calcutta Public Library     - 1835
+Calcutta Public Library     - 1836
 Imperial Library            - 1891
 National Library of India   - 1948
 
@@ -130,6 +130,7 @@ International Classification by F. Rider:        1961
 Library of Congress Subject Headings:        1898
 AACR first published:        1908
 Sears List of Subject Headings (SLSH):       1923
+
 CCC:         1964
 MARC:        1966
 AACR-I:      1967
@@ -163,6 +164,18 @@ C. A. Cutter:Rules for a Dictionary Catalog (1876),
  Designed specifically for the unambiguous identification of serial publications,
  Particularly scientific, technical, and medical journals.
 
+
+
+
+| Scheme                | Type                  | Key Point                                    |
+| --------------------- | --------------------- | -------------------------------------------- |
+| **LCC**               | Purely Enumerative    | Subjects listed in advance                   |
+| **DDC**               | Almost Enumerative    | Standard subdivisions/common isolates        |
+| **UDC**               | Almost Faceted        | Extensive common & special auxiliaries       |
+| **BC**                | Almost Faceted        | Common + special isolates, greater synthesis |
+| **CC (1st–3rd)**      | Rigidly Faceted       | Fixed PMEST citation                         |
+| **CC (4th–6th)**      | Almost Freely Faceted | Flexible PMEST with connecting symbols       |
+| **Theoretical Ideal** | Fully Freely Faceted  | Citation order decided entirely by analysis  |
 
 
 
@@ -217,6 +230,17 @@ C. A. Cutter:Rules for a Dictionary Catalog (1876),
 | **::**     | Order-fixing relation         |
 | **[]**     | Subgrouping                   |
 
+
+
+
+>>>>> CCC Sections <<<<<
+
+1. Leading Section            → Contains the Call Number
+2. Heading Section            → Author/Corporate Author/Collaborator
+3. Title Section              → Title, Edition, Statement of Responsibility
+4. Note Section               (if any)
+5. Accession number section   (Contains the unique numeric library identifier)
+6. Tracing Section            (usually on the reverse side)
 
 
 
@@ -437,6 +461,13 @@ OCLC Worldcat: A global catalog of library collections.
 
 
 
+Personality [P] – Most concrete
+Matter [M] – Less concrete
+Energy [E] – Intermediate concreteness
+Space [S] – Less abstract
+Time [T] – Most abstract
+
+
 
 
 Taylor Model	Robert S. Taylor	4 levels of info need
@@ -510,6 +541,15 @@ OPAC / Library Software
 | Variable Fields | Bibliographic data |
 
 
+>>>> ISBN <<<<<
+
+978-81-12345-67-8
+
+Prefix:               978     Indicates the Bookland EAN prefix for books.
+Registration Group:   81      Identifies the country or language area, which is India.
+Publisher:            12345   Identifies the specific publishing house.
+Title Identifier:     67      Identifies the specific title, edition, or binding of the book.
+Check Digit:          8       A single mathematical digit used to validate the entire number.
 
 
 
@@ -645,6 +685,8 @@ h-index = Jorge Hirsch (Researcher)
 i10-index = Google Scholar
 Scopus = Elsevier
 Web of Science = Clarivate (originally ISI)
+
+
 
 
 >>>>>>> ORCID <<<<<<<<
@@ -830,11 +872,11 @@ Encyclopedic Publications
 >>>>> DESIDOC <<<<<
  Defence Scientific Information & Documentation Centre
    Established	          :  1958
-   Parent Organization	 :  DRDO
-   Headquarters	       :  New Delhi
-   Famous LIS Journal	 :  DESIDOC Journal of Library & Information Technology: (DJLIT)
-   Maintains	          :  Defence Science Library (DSL)
-   Major Services	       :  CAS, SDI, Translation, Reference, Document Delivery
+   Parent Organization	  :  DRDO
+   Headquarters	          :  New Delhi
+   Famous LIS Journal	    :  DESIDOC Journal of Library & Information Technology: (DJLIT)
+   Maintains	            :  Defence Science Library (DSL)
+   Major Services	        :  CAS, SDI, Translation, Reference, Document Delivery
 
 
 
@@ -1555,5 +1597,67 @@ Facet Numbers
  ↓
 Class Number
 ```
+
+
+
+
+
+| Treaty                          | Year                     | Organisation            | Main Subject                                       | PSC Keyword   |
+| ------------------------------- | ------------------------ | ----------------------- | -------------------------------------------------- | ------------- |
+| **Paris Convention**            | **1883**                 | **WIPO**                | Industrial Property (Patents, Trademarks, Designs) | Patent        |
+
+| **Berne Convention**            | **1886**                 | **WIPO**                | Copyright (Literary & Artistic Works)              | Copyright     |
+
+| **Rome Convention**             | **1961**                 | **WIPO / ILO / UNESCO** | Performers, Phonograms, Broadcasting               | Performers    |
+
+| **TRIPS Agreement**             | **1994** (1995 in force) | **WTO**                 | Minimum IPR Standards for Trade                    | WTO           |
+
+| **WIPO Copyright Treaty (WCT)** | **1996**                 | **WIPO**                | Digital Copyright                                  | Internet      |
+
+| **Marrakesh Treaty**            | **2013**                 | **WIPO**                | Accessible Copies for Print-Disabled Persons       | Accessibility |
+
+
+
+
+
+
+
+Hub = Shouts to everyone
+
+Switch = Talks to one person
+
+Router = Finds the road
+
+Gateway = Translator
+
+
+
+
+
+
+
+| Name                         | Type                        | Organization                 |
+| ---------------------------- | --------------------------- | ---------------------------- |
+| **Scopus**                   | Citation Database           | Elsevier                     |
+| **Web of Science**           | Citation Database           | Clarivate                    |
+| **Google Scholar**           | Scholarly Search Engine     | Google                       |
+| **ScienceDirect**            | Full-text Platform          | Elsevier                     |
+| **JSTOR**                    | Digital Archive             | ITHAKA                       |
+| **Crossref**                 | DOI Registration Agency     | Crossref                     |
+| **ERIC**                     | Education Database          | U.S. Department of Education |
+| **INSPEC**                   | Engineering Database        | IET                          |
+| **Chemical Abstracts (CAS)** | Chemistry Database          | ACS                          |
+| **Dimensions**               | Research Discovery Database | Digital Science              |
+
+
+
+
+
+| Style           | Citation Method    |
+| --------------- | ------------------ |
+| APA             | Author–Date        |
+| MLA             | Author–Page        |
+| Chicago (Notes) | Footnotes/Endnotes |
+| Vancouver       | Numbered           |
 
 
